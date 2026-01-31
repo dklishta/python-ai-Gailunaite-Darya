@@ -1,4 +1,4 @@
-SELECT DISTINCT ?film ?filmLabel ?genreLabel ?countryLabel ?duration ?revenue ?capital_cost
+SELECT DISTINCT ?film ?filmLabel ?genreLabel ?countryLabel ?duration ?capital_cost
 WHERE {
   ?film wdt:P31 wd:Q202866 ;  # Экземпляры мультфильмов (Q202866)
         wdt:P136 ?genre ;     # Жанр мультфильма
