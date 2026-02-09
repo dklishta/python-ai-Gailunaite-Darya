@@ -1,0 +1,441 @@
+tea,teaLabel,type,typeLabel,country,countryLabel,processingMethod,processingMethodLabel,subclass,subclassLabel,image
+http://www.wikidata.org/entity/Q2106693,Baozhong,,,http://www.wikidata.org/entity/Q865,Китайская Республика (Тайвань),,,http://www.wikidata.org/entity/Q231587,Улун,http://commons.wikimedia.org/wiki/Special:FilePath/Spring%20pouchong%20tea%20leaves%20on%20plate.jpg
+http://www.wikidata.org/entity/Q5579671,Golden Monkey tea,,,,,,,http://www.wikidata.org/entity/Q203415,чёрный чай,
+http://www.wikidata.org/entity/Q4968672,Brisk,,,,,,,http://www.wikidata.org/entity/Q348958,холодный чай,http://commons.wikimedia.org/wiki/Special:FilePath/Brisk%20Iced%20Tea%202.jpg
+http://www.wikidata.org/entity/Q7666293,Söder tea,,,http://www.wikidata.org/entity/Q34,Швеция,,,http://www.wikidata.org/entity/Q203415,чёрный чай,
+http://www.wikidata.org/entity/Q2596949,Тамарёкутя,,,http://www.wikidata.org/entity/Q17,Япония,,,http://www.wikidata.org/entity/Q484083,зелёный чай,http://commons.wikimedia.org/wiki/Special:FilePath/Tamaryokucha.jpg
+http://www.wikidata.org/entity/Q3733375,Estathé,,,http://www.wikidata.org/entity/Q38,Италия,,,http://www.wikidata.org/entity/Q348958,холодный чай,
+http://www.wikidata.org/entity/Q835553,Да Хун Пао,,,http://www.wikidata.org/entity/Q148,Китай,,,http://www.wikidata.org/entity/Q231587,Улун,http://commons.wikimedia.org/wiki/Special:FilePath/Da%20Hong%20Pao%20Oolong%20tea%20leaf.jpg
+http://www.wikidata.org/entity/Q788624,Бай Мудань,,,http://www.wikidata.org/entity/Q148,Китай,,,http://www.wikidata.org/entity/Q238306,белый чай,http://commons.wikimedia.org/wiki/Special:FilePath/Bai%20Mudan.jpg
+http://www.wikidata.org/entity/Q788624,Бай Мудань,,,http://www.wikidata.org/entity/Q148,Китай,,,http://www.wikidata.org/entity/Q238306,белый чай,http://commons.wikimedia.org/wiki/Special:FilePath/Frisch%20aufgebr%C3%BChter%20wei%C3%9Fer%20Tee%20Pai%20Mu%20Tan.jpg
+http://www.wikidata.org/entity/Q5463781,Fo Shou tea,,,,,,,http://www.wikidata.org/entity/Q231587,Улун,http://commons.wikimedia.org/wiki/Special:FilePath/Fo%20Shou%20Oolong%20tea%20leaf.jpg
+http://www.wikidata.org/entity/Q10576721,Mao Jian,,,http://www.wikidata.org/entity/Q148,Китай,,,http://www.wikidata.org/entity/Q484083,зелёный чай,
+http://www.wikidata.org/entity/Q3179181,Jin Fo tea,,,http://www.wikidata.org/entity/Q148,Китай,,,http://www.wikidata.org/entity/Q4938043,Wuyi tea,http://commons.wikimedia.org/wiki/Special:FilePath/Jin%20Fo%20Oolong%20tea%20leaf.jpg
+http://www.wikidata.org/entity/Q7504737,Shui Jin Gui tea,,,,,,,http://www.wikidata.org/entity/Q231587,Улун,
+http://www.wikidata.org/entity/Q10877593,Q10877593,,,http://www.wikidata.org/entity/Q148,Китай,,,http://www.wikidata.org/entity/Q203415,чёрный чай,
+http://www.wikidata.org/entity/Q905532,Prince of Wales tea blend,,,http://www.wikidata.org/entity/Q145,Великобритания,,,http://www.wikidata.org/entity/Q203415,чёрный чай,
+http://www.wikidata.org/entity/Q3242270,Lipton Ice Tea,,,http://www.wikidata.org/entity/Q30,США,,,http://www.wikidata.org/entity/Q348958,холодный чай,http://commons.wikimedia.org/wiki/Special:FilePath/Lipton%20Ice%20Tea%20Green.JPG
+http://www.wikidata.org/entity/Q1376140,Кимун,,,http://www.wikidata.org/entity/Q148,Китай,,,http://www.wikidata.org/entity/Q203415,чёрный чай,http://commons.wikimedia.org/wiki/Special:FilePath/Keemun%20FTGFOP%20%281%29.JPG
+http://www.wikidata.org/entity/Q1376140,Кимун,,,http://www.wikidata.org/entity/Q148,Китай,,,http://www.wikidata.org/entity/Q203415,чёрный чай,http://commons.wikimedia.org/wiki/Special:FilePath/Qimen%20Hao%20Ya.jpg
+http://www.wikidata.org/entity/Q835553,Да Хун Пао,,,http://www.wikidata.org/entity/Q148,Китай,,,http://www.wikidata.org/entity/Q231587,Улун,http://commons.wikimedia.org/wiki/Special:FilePath/Da%20Hong%20Pao%20Oolong%20tea%20leaf%20close.jpg
+http://www.wikidata.org/entity/Q789960,Бантя,,,http://www.wikidata.org/entity/Q17,Япония,,,http://www.wikidata.org/entity/Q1334390,сентя,http://commons.wikimedia.org/wiki/Special:FilePath/Green%20tea%20Bancha.jpg
+http://www.wikidata.org/entity/Q789960,Бантя,,,http://www.wikidata.org/entity/Q17,Япония,,,http://www.wikidata.org/entity/Q1334390,сентя,http://commons.wikimedia.org/wiki/Special:FilePath/Shizuoka%20bancha.jpg
+http://www.wikidata.org/entity/Q789960,Бантя,,,http://www.wikidata.org/entity/Q17,Япония,,,http://www.wikidata.org/entity/Q1334390,сентя,http://commons.wikimedia.org/wiki/Special:FilePath/Shizuoka%20bancha%20-%20second%20infusion.jpg
+http://www.wikidata.org/entity/Q1791365,Кукитя,,,http://www.wikidata.org/entity/Q17,Япония,,,http://www.wikidata.org/entity/Q484083,зелёный чай,http://commons.wikimedia.org/wiki/Special:FilePath/Kukicha-p1030752.jpg
+http://www.wikidata.org/entity/Q1791365,Кукитя,,,http://www.wikidata.org/entity/Q17,Япония,,,http://www.wikidata.org/entity/Q484083,зелёный чай,http://commons.wikimedia.org/wiki/Special:FilePath/Kukicha.jpg
+http://www.wikidata.org/entity/Q7504735,Shui Xian,,,,,,,http://www.wikidata.org/entity/Q231587,Улун,http://commons.wikimedia.org/wiki/Special:FilePath/Shui%20Xian.jpg
+http://www.wikidata.org/entity/Q1424874,Гёкуро,,,http://www.wikidata.org/entity/Q17,Япония,,,http://www.wikidata.org/entity/Q1334390,сентя,http://commons.wikimedia.org/wiki/Special:FilePath/Gyokuro%20img%200067.jpg
+http://www.wikidata.org/entity/Q822331,Маття,,,http://www.wikidata.org/entity/Q29520,Китай,,,http://www.wikidata.org/entity/Q484083,зелёный чай,http://commons.wikimedia.org/wiki/Special:FilePath/Matcha%20Scoop.jpg
+http://www.wikidata.org/entity/Q7801005,Tieluohan tea,,,,,,,http://www.wikidata.org/entity/Q231587,Улун,
+http://www.wikidata.org/entity/Q1720874,Кабусэтя,,,http://www.wikidata.org/entity/Q17,Япония,,,http://www.wikidata.org/entity/Q484083,зелёный чай,http://commons.wikimedia.org/wiki/Special:FilePath/Green%20tea%20kabuse-cha.jpg
+http://www.wikidata.org/entity/Q937101,Maghrebi mint tea,,,http://www.wikidata.org/entity/Q28227,Магриб,,,http://www.wikidata.org/entity/Q1071940,mint tea,http://commons.wikimedia.org/wiki/Special:FilePath/The%20menthe.jpg
+http://www.wikidata.org/entity/Q6346675,Kagoshima green tea,,,http://www.wikidata.org/entity/Q17,Япония,,,http://www.wikidata.org/entity/Q484083,зелёный чай,http://commons.wikimedia.org/wiki/Special:FilePath/Tea%20Plantation%20in%20Chiran%2001.jpg
+http://www.wikidata.org/entity/Q3179181,Jin Fo tea,,,http://www.wikidata.org/entity/Q148,Китай,,,http://www.wikidata.org/entity/Q231587,Улун,http://commons.wikimedia.org/wiki/Special:FilePath/Jin%20Fo%20Oolong%20tea%20leaf.jpg
+http://www.wikidata.org/entity/Q2992098,Дянь Хун,,,,,,,http://www.wikidata.org/entity/Q203415,чёрный чай,http://commons.wikimedia.org/wiki/Special:FilePath/GoldenDianHong.jpg
+http://www.wikidata.org/entity/Q7504737,Shui Jin Gui tea,,,,,,,http://www.wikidata.org/entity/Q4938043,Wuyi tea,
+http://www.wikidata.org/entity/Q6816973,Mengding Ganlu tea,,,,,,,http://www.wikidata.org/entity/Q484083,зелёный чай,
+http://www.wikidata.org/entity/Q6201947,Цзинь Сюань,,,http://www.wikidata.org/entity/Q865,Китайская Республика (Тайвань),,,http://www.wikidata.org/entity/Q231587,Улун,http://commons.wikimedia.org/wiki/Special:FilePath/%E5%8F%B0%E8%8C%B612%E8%99%9F.png
+http://www.wikidata.org/entity/Q1193772,English Breakfast tea,,,http://www.wikidata.org/entity/Q145,Великобритания,,,http://www.wikidata.org/entity/Q203415,чёрный чай,http://commons.wikimedia.org/wiki/Special:FilePath/English%20breakfast%20tea%20tin.jpg
+http://www.wikidata.org/entity/Q4830980,Ayataka,,,,,,,http://www.wikidata.org/entity/Q484083,зелёный чай,
+http://www.wikidata.org/entity/Q690098,пуэр,,,http://www.wikidata.org/entity/Q148,Китай,,,http://www.wikidata.org/entity/Q1204167,плиточный чай,http://commons.wikimedia.org/wiki/Special:FilePath/Xiaguan%201992%20tuo%20cha.jpg
+http://www.wikidata.org/entity/Q5925527,Huang Guanyin tea,,,,,,,http://www.wikidata.org/entity/Q231587,Улун,http://commons.wikimedia.org/wiki/Special:FilePath/HGY%20Oolong%20tea%20leaf%20close.jpg
+http://www.wikidata.org/entity/Q4843134,Bai Jiguan tea,,,http://www.wikidata.org/entity/Q29520,Китай,,,http://www.wikidata.org/entity/Q4938043,Wuyi tea,http://commons.wikimedia.org/wiki/Special:FilePath/Bai%20Jiguan.jpg
+http://www.wikidata.org/entity/Q4843134,Bai Jiguan tea,,,http://www.wikidata.org/entity/Q29520,Китай,,,http://www.wikidata.org/entity/Q4938043,Wuyi tea,http://commons.wikimedia.org/wiki/Special:FilePath/Two%20small%20tasting%20cups%20of%20Bai%20Jiguan.jpg
+http://www.wikidata.org/entity/Q5925624,Huang Mei Gui tea,,,,,,,http://www.wikidata.org/entity/Q231587,Улун,
+http://www.wikidata.org/entity/Q7370926,Rougui tea,,,,,,,http://www.wikidata.org/entity/Q231587,Улун,
+http://www.wikidata.org/entity/Q6804456,Мэтя,,,,,,,http://www.wikidata.org/entity/Q484083,зелёный чай,http://commons.wikimedia.org/wiki/Special:FilePath/Me%20cha.jpg
+http://www.wikidata.org/entity/Q519365,гэммайтя,,,http://www.wikidata.org/entity/Q17,Япония,,,http://www.wikidata.org/entity/Q28838591,brown rice green tea,http://commons.wikimedia.org/wiki/Special:FilePath/Genmaicha.jpg
+http://www.wikidata.org/entity/Q519365,гэммайтя,,,http://www.wikidata.org/entity/Q17,Япония,,,http://www.wikidata.org/entity/Q28838591,brown rice green tea,http://commons.wikimedia.org/wiki/Special:FilePath/Genmaicha.JPG
+http://www.wikidata.org/entity/Q519365,гэммайтя,,,http://www.wikidata.org/entity/Q17,Япония,,,http://www.wikidata.org/entity/Q28838591,brown rice green tea,http://commons.wikimedia.org/wiki/Special:FilePath/Genmaicha%20tea%20brewed%20and%20unbrewed.jpg
+http://www.wikidata.org/entity/Q11379187,Iyemon,,,,,,,http://www.wikidata.org/entity/Q484083,зелёный чай,
+http://www.wikidata.org/entity/Q7801005,Tieluohan tea,,,,,,,http://www.wikidata.org/entity/Q4938043,Wuyi tea,
+http://www.wikidata.org/entity/Q7267739,Qilan tea,,,,,,,http://www.wikidata.org/entity/Q4938043,Wuyi tea,http://commons.wikimedia.org/wiki/Special:FilePath/Qi%20Lan%20Oolong%20tea%20leaf.jpg
+http://www.wikidata.org/entity/Q10905087,Gogo no Kocha,,,http://www.wikidata.org/entity/Q17,Япония,,,http://www.wikidata.org/entity/Q203415,чёрный чай,
+http://www.wikidata.org/entity/Q5925951,Huangjin Gui,,,,,,,http://www.wikidata.org/entity/Q231587,Улун,http://commons.wikimedia.org/wiki/Special:FilePath/Huang%20Jin%20Gui%20Tea.jpeg
+http://www.wikidata.org/entity/Q7375720,Ruanzhi tea,,,,,,,http://www.wikidata.org/entity/Q231587,Улун,
+http://www.wikidata.org/entity/Q5295867,Dongfang meiren tea,,,,,,,http://www.wikidata.org/entity/Q231587,Улун,http://commons.wikimedia.org/wiki/Special:FilePath/%EB%8F%99%EB%B0%A9%EB%AF%B8%EC%9D%B81.jpg
+http://www.wikidata.org/entity/Q822331,Маття,,,http://www.wikidata.org/entity/Q29520,Китай,,,http://www.wikidata.org/entity/Q56274178,пищевой порошок,http://commons.wikimedia.org/wiki/Special:FilePath/Matcha%20Scoop.jpg
+http://www.wikidata.org/entity/Q1334390,сентя,,,http://www.wikidata.org/entity/Q17,Япония,,,http://www.wikidata.org/entity/Q484083,зелёный чай,http://commons.wikimedia.org/wiki/Special:FilePath/2017%20Kagoshima%20sencha.jpg
+http://www.wikidata.org/entity/Q1334390,сентя,,,http://www.wikidata.org/entity/Q17,Япония,,,http://www.wikidata.org/entity/Q484083,зелёный чай,http://commons.wikimedia.org/wiki/Special:FilePath/2017%20Kagoshima%20sencha%20-%20second%20infusion.jpg
+http://www.wikidata.org/entity/Q1334390,сентя,,,http://www.wikidata.org/entity/Q17,Япония,,,http://www.wikidata.org/entity/Q484083,зелёный чай,http://commons.wikimedia.org/wiki/Special:FilePath/Aichi%20Prefectural%20Ceramic%20Museum%20%2891%29.jpg
+http://www.wikidata.org/entity/Q1334390,сентя,,,http://www.wikidata.org/entity/Q17,Япония,,,http://www.wikidata.org/entity/Q484083,зелёный чай,http://commons.wikimedia.org/wiki/Special:FilePath/Sencha%20Japanischer%20Gr%C3%BCner%20Tee.jpg
+http://www.wikidata.org/entity/Q5925951,Huangjin Gui,,,,,,,http://www.wikidata.org/entity/Q5100949,китайский чай,http://commons.wikimedia.org/wiki/Special:FilePath/Huang%20Jin%20Gui%20Tea.jpeg
+http://www.wikidata.org/entity/Q1471207,Синтя,,,http://www.wikidata.org/entity/Q17,Япония,,,http://www.wikidata.org/entity/Q484083,зелёный чай,http://commons.wikimedia.org/wiki/Special:FilePath/Shincha-2010.jpg
+http://www.wikidata.org/entity/Q4843134,Bai Jiguan tea,,,http://www.wikidata.org/entity/Q29520,Китай,,,http://www.wikidata.org/entity/Q231587,Улун,http://commons.wikimedia.org/wiki/Special:FilePath/Bai%20Jiguan.jpg
+http://www.wikidata.org/entity/Q4843134,Bai Jiguan tea,,,http://www.wikidata.org/entity/Q29520,Китай,,,http://www.wikidata.org/entity/Q231587,Улун,http://commons.wikimedia.org/wiki/Special:FilePath/Two%20small%20tasting%20cups%20of%20Bai%20Jiguan.jpg
+http://www.wikidata.org/entity/Q1156522,Lady Grey,,,http://www.wikidata.org/entity/Q21,Англия,,,http://www.wikidata.org/entity/Q203415,чёрный чай,http://commons.wikimedia.org/wiki/Special:FilePath/TwiningsLadyGrey%20low.jpg
+http://www.wikidata.org/entity/Q789960,Бантя,,,http://www.wikidata.org/entity/Q17,Япония,,,http://www.wikidata.org/entity/Q484083,зелёный чай,http://commons.wikimedia.org/wiki/Special:FilePath/Green%20tea%20Bancha.jpg
+http://www.wikidata.org/entity/Q789960,Бантя,,,http://www.wikidata.org/entity/Q17,Япония,,,http://www.wikidata.org/entity/Q484083,зелёный чай,http://commons.wikimedia.org/wiki/Special:FilePath/Shizuoka%20bancha.jpg
+http://www.wikidata.org/entity/Q789960,Бантя,,,http://www.wikidata.org/entity/Q17,Япония,,,http://www.wikidata.org/entity/Q484083,зелёный чай,http://commons.wikimedia.org/wiki/Special:FilePath/Shizuoka%20bancha%20-%20second%20infusion.jpg
+http://www.wikidata.org/entity/Q5208302,Dafang tea,,,,,,,http://www.wikidata.org/entity/Q484083,зелёный чай,
+http://www.wikidata.org/entity/Q745933,Дарджилинг,,,http://www.wikidata.org/entity/Q668,Индия,,,http://www.wikidata.org/entity/Q203415,чёрный чай,http://commons.wikimedia.org/wiki/Special:FilePath/Darjeeling-tea-first-flush-in-cup.jpg
+http://www.wikidata.org/entity/Q745933,Дарджилинг,,,http://www.wikidata.org/entity/Q668,Индия,,,http://www.wikidata.org/entity/Q203415,чёрный чай,http://commons.wikimedia.org/wiki/Special:FilePath/Darjeeling-Turzum%202014%20First%20Flush%20DJ4.JPG
+http://www.wikidata.org/entity/Q1069130,Лунцзин,,,http://www.wikidata.org/entity/Q148,Китай,,,http://www.wikidata.org/entity/Q484083,зелёный чай,http://commons.wikimedia.org/wiki/Special:FilePath/Longjing%20tea.jpg
+http://www.wikidata.org/entity/Q1069130,Лунцзин,,,http://www.wikidata.org/entity/Q148,Китай,,,http://www.wikidata.org/entity/Q484083,зелёный чай,http://commons.wikimedia.org/wiki/Special:FilePath/Stir%20frying%20Xi%20Hu%20Longjing.png
+http://www.wikidata.org/entity/Q1424874,Гёкуро,,,http://www.wikidata.org/entity/Q17,Япония,,,http://www.wikidata.org/entity/Q484083,зелёный чай,http://commons.wikimedia.org/wiki/Special:FilePath/Gyokuro%20img%200067.jpg
+http://www.wikidata.org/entity/Q7267739,Qilan tea,,,,,,,http://www.wikidata.org/entity/Q231587,Улун,http://commons.wikimedia.org/wiki/Special:FilePath/Qi%20Lan%20Oolong%20tea%20leaf.jpg
+http://www.wikidata.org/entity/Q519365,гэммайтя,,,http://www.wikidata.org/entity/Q17,Япония,,,http://www.wikidata.org/entity/Q484083,зелёный чай,http://commons.wikimedia.org/wiki/Special:FilePath/Genmaicha.jpg
+http://www.wikidata.org/entity/Q519365,гэммайтя,,,http://www.wikidata.org/entity/Q17,Япония,,,http://www.wikidata.org/entity/Q484083,зелёный чай,http://commons.wikimedia.org/wiki/Special:FilePath/Genmaicha.JPG
+http://www.wikidata.org/entity/Q519365,гэммайтя,,,http://www.wikidata.org/entity/Q17,Япония,,,http://www.wikidata.org/entity/Q484083,зелёный чай,http://commons.wikimedia.org/wiki/Special:FilePath/Genmaicha%20tea%20brewed%20and%20unbrewed.jpg
+http://www.wikidata.org/entity/Q10036993,Taiping houkui,,,,,,,http://www.wikidata.org/entity/Q484083,зелёный чай,http://commons.wikimedia.org/wiki/Special:FilePath/Fresh%20Hou%20Kui%20Green%20Tea%2001.JPG
+http://www.wikidata.org/entity/Q10036993,Taiping houkui,,,,,,,http://www.wikidata.org/entity/Q484083,зелёный чай,http://commons.wikimedia.org/wiki/Special:FilePath/Fresh%20Hou%20Kui%20Green%20Tea%20Leaves.jpg
+http://www.wikidata.org/entity/Q937101,Maghrebi mint tea,,,http://www.wikidata.org/entity/Q28227,Магриб,,,http://www.wikidata.org/entity/Q484083,зелёный чай,http://commons.wikimedia.org/wiki/Special:FilePath/The%20menthe.jpg
+http://www.wikidata.org/entity/Q11260677,Q11260677,,,,,,,http://www.wikidata.org/entity/Q203415,чёрный чай,
+http://www.wikidata.org/entity/Q690098,пуэр,,,http://www.wikidata.org/entity/Q148,Китай,,,http://www.wikidata.org/entity/Q1204167,плиточный чай,http://commons.wikimedia.org/wiki/Special:FilePath/Soultea-Pu-erh-first-grade-kanne.jpg
+http://www.wikidata.org/entity/Q4526292,Шоу Мэй,,,,,,,http://www.wikidata.org/entity/Q238306,белый чай,http://commons.wikimedia.org/wiki/Special:FilePath/Shou%20Mei%20tea.JPG
+http://www.wikidata.org/entity/Q4853724,Ban Tian Yao tea,,,,,,,http://www.wikidata.org/entity/Q4938043,Wuyi tea,http://commons.wikimedia.org/wiki/Special:FilePath/Ban%20Tian%20Yao%20Oolong%20tea%20leaf.jpg
+http://www.wikidata.org/entity/Q3090697,fukuju,,,,,,,http://www.wikidata.org/entity/Q484083,зелёный чай,
+http://www.wikidata.org/entity/Q1079875,Ганпаудер,,,http://www.wikidata.org/entity/Q148,Китай,,,http://www.wikidata.org/entity/Q484083,зелёный чай,http://commons.wikimedia.org/wiki/Special:FilePath/Th%C3%A9%20vert%20gunpowder%20entass%C3%A9%2001.jpg
+http://www.wikidata.org/entity/Q738975,Ассам (чай),,,,,,,http://www.wikidata.org/entity/Q203415,чёрный чай,http://commons.wikimedia.org/wiki/Special:FilePath/Assam-Tee%20SFTGFOP1.jpg
+http://www.wikidata.org/entity/Q4982075,Bu Zhi Chun tea,,,,,,,http://www.wikidata.org/entity/Q4938043,Wuyi tea,http://commons.wikimedia.org/wiki/Special:FilePath/BZC%20Oolong%20tea%20leaf.jpg
+http://www.wikidata.org/entity/Q2908881,Yingdehong tea,,,,,,,http://www.wikidata.org/entity/Q203415,чёрный чай,
+http://www.wikidata.org/entity/Q1652744,Ходзитя,,,http://www.wikidata.org/entity/Q17,Япония,,,http://www.wikidata.org/entity/Q484083,зелёный чай,http://commons.wikimedia.org/wiki/Special:FilePath/Houjicha.jpg
+http://www.wikidata.org/entity/Q5757613,High mountain tea,,,,,,,http://www.wikidata.org/entity/Q231587,Улун,http://commons.wikimedia.org/wiki/Special:FilePath/%E9%AB%98%E5%B1%B1%E8%8C%B6%201.jpg
+http://www.wikidata.org/entity/Q697016,Tung-ting tea,,,http://www.wikidata.org/entity/Q865,Китайская Республика (Тайвань),,,http://www.wikidata.org/entity/Q231587,Улун,http://commons.wikimedia.org/wiki/Special:FilePath/Dong%20Ding%20tea.jpg
+http://www.wikidata.org/entity/Q1328947,Те Гуаньинь,,,,,,,http://www.wikidata.org/entity/Q231587,Улун,http://commons.wikimedia.org/wiki/Special:FilePath/Tieguanyin2.jpg
+http://www.wikidata.org/entity/Q11289053,Q11289053,,,,,,,http://www.wikidata.org/entity/Q203415,чёрный чай,
+http://www.wikidata.org/entity/Q4853724,Ban Tian Yao tea,,,,,,,http://www.wikidata.org/entity/Q231587,Улун,http://commons.wikimedia.org/wiki/Special:FilePath/Ban%20Tian%20Yao%20Oolong%20tea%20leaf.jpg
+http://www.wikidata.org/entity/Q1194937,Байхао Иньчжэнь,,,,,,,http://www.wikidata.org/entity/Q238306,белый чай,http://commons.wikimedia.org/wiki/Special:FilePath/2010%20FirstFlush%20Yunnan%20Baihao%20Yinzhen.jpg
+http://www.wikidata.org/entity/Q1194937,Байхао Иньчжэнь,,,,,,,http://www.wikidata.org/entity/Q238306,белый чай,http://commons.wikimedia.org/wiki/Special:FilePath/Bai%20Hao%20Yin%20Zhen%20tea%20leaf%20%28Fuding%29.jpg
+http://www.wikidata.org/entity/Q1781131,Конатя,,,http://www.wikidata.org/entity/Q17,Япония,,,http://www.wikidata.org/entity/Q484083,зелёный чай,http://commons.wikimedia.org/wiki/Special:FilePath/Konacha.jpg
+http://www.wikidata.org/entity/Q4982075,Bu Zhi Chun tea,,,,,,,http://www.wikidata.org/entity/Q231587,Улун,http://commons.wikimedia.org/wiki/Special:FilePath/BZC%20Oolong%20tea%20leaf.jpg
+http://www.wikidata.org/entity/Q604976,красный китайский чай,,,http://www.wikidata.org/entity/Q148,Китай,,,http://www.wikidata.org/entity/Q203415,чёрный чай,
+http://www.wikidata.org/entity/Q2983740,Би Ло Чунь,,,,,,,http://www.wikidata.org/entity/Q6097,чай,http://commons.wikimedia.org/wiki/Special:FilePath/Bihuochun%20green%20tea.JPG
+http://www.wikidata.org/entity/Q2983740,Би Ло Чунь,,,,,,,http://www.wikidata.org/entity/Q6097,чай,http://commons.wikimedia.org/wiki/Special:FilePath/Suzhou%20Biluochun%20%E8%8B%8F%E5%B7%9E%E7%A2%A7%E8%9E%BA%E6%98%A5.jpg
+http://www.wikidata.org/entity/Q1061187,имбирный чай,,,http://www.wikidata.org/entity/Q833,Малайзия,,,http://www.wikidata.org/entity/Q111028903,root tea,http://commons.wikimedia.org/wiki/Special:FilePath/Ginger%20tea-01.jpg
+http://www.wikidata.org/entity/Q1061187,имбирный чай,,,http://www.wikidata.org/entity/Q833,Малайзия,,,http://www.wikidata.org/entity/Q111028903,root tea,http://commons.wikimedia.org/wiki/Special:FilePath/Teh%20Halia%20%28Singapore%29.jpg
+http://www.wikidata.org/entity/Q1061187,имбирный чай,,,http://www.wikidata.org/entity/Q833,Малайзия,,,http://www.wikidata.org/entity/Q111028903,root tea,http://commons.wikimedia.org/wiki/Special:FilePath/Wedang%20Jahe.jpg
+http://www.wikidata.org/entity/Q203415,чёрный чай,,,http://www.wikidata.org/entity/Q29520,Китай,,,http://www.wikidata.org/entity/Q32022234,чайные листья,http://commons.wikimedia.org/wiki/Special:FilePath/A%20cup%20of%20black%20tea%20from%20Srimangal%20Bangladesh.jpg
+http://www.wikidata.org/entity/Q877661,Масала,,,http://www.wikidata.org/entity/Q668,Индия,,,http://www.wikidata.org/entity/Q6097,чай,http://commons.wikimedia.org/wiki/Special:FilePath/Masala%20Chai.JPG
+http://www.wikidata.org/entity/Q1061187,имбирный чай,,,http://www.wikidata.org/entity/Q252,Индонезия,,,http://www.wikidata.org/entity/Q6097,чай,http://commons.wikimedia.org/wiki/Special:FilePath/Java%20Wedang%20Jahe.jpg
+http://www.wikidata.org/entity/Q708203,Хризантемовый чай,,,,,,,http://www.wikidata.org/entity/Q6097,чай,http://commons.wikimedia.org/wiki/Special:FilePath/Korean%20chrysanthemum%20tea-Gukhwacha-01.jpg
+http://www.wikidata.org/entity/Q203415,чёрный чай,,,http://www.wikidata.org/entity/Q29520,Китай,,,http://www.wikidata.org/entity/Q6097,чай,http://commons.wikimedia.org/wiki/Special:FilePath/A%20cup%20of%20black%20tea%20from%20Srimangal%20Bangladesh.jpg
+http://www.wikidata.org/entity/Q5615230,goji tea,,,,,,,http://www.wikidata.org/entity/Q6097,чай,
+http://www.wikidata.org/entity/Q1061187,имбирный чай,,,http://www.wikidata.org/entity/Q334,Сингапур,,,http://www.wikidata.org/entity/Q111028903,root tea,http://commons.wikimedia.org/wiki/Special:FilePath/Java%20Wedang%20Jahe.jpg
+http://www.wikidata.org/entity/Q2035490,East Friesland tea blend,,,,,,,http://www.wikidata.org/entity/Q40050,напиток,
+http://www.wikidata.org/entity/Q2035490,East Friesland tea blend,,,,,,,http://www.wikidata.org/entity/Q6097,чай,
+http://www.wikidata.org/entity/Q1061187,имбирный чай,,,http://www.wikidata.org/entity/Q252,Индонезия,,,http://www.wikidata.org/entity/Q111028903,root tea,http://commons.wikimedia.org/wiki/Special:FilePath/Ginger%20tea-01.jpg
+http://www.wikidata.org/entity/Q1061187,имбирный чай,,,http://www.wikidata.org/entity/Q252,Индонезия,,,http://www.wikidata.org/entity/Q111028903,root tea,http://commons.wikimedia.org/wiki/Special:FilePath/Teh%20Halia%20%28Singapore%29.jpg
+http://www.wikidata.org/entity/Q1061187,имбирный чай,,,http://www.wikidata.org/entity/Q252,Индонезия,,,http://www.wikidata.org/entity/Q111028903,root tea,http://commons.wikimedia.org/wiki/Special:FilePath/Wedang%20Jahe.jpg
+http://www.wikidata.org/entity/Q238306,белый чай,,,http://www.wikidata.org/entity/Q29520,Китай,,,http://www.wikidata.org/entity/Q6097,чай,http://commons.wikimedia.org/wiki/Special:FilePath/Bai%20Hao%20Yin%20Zhen%20tea%20leaf%20%28Fuding%29.jpg
+http://www.wikidata.org/entity/Q1061187,имбирный чай,,,http://www.wikidata.org/entity/Q334,Сингапур,,,http://www.wikidata.org/entity/Q6097,чай,http://commons.wikimedia.org/wiki/Special:FilePath/Ginger%20tea-01.jpg
+http://www.wikidata.org/entity/Q1061187,имбирный чай,,,http://www.wikidata.org/entity/Q334,Сингапур,,,http://www.wikidata.org/entity/Q6097,чай,http://commons.wikimedia.org/wiki/Special:FilePath/Teh%20Halia%20%28Singapore%29.jpg
+http://www.wikidata.org/entity/Q1061187,имбирный чай,,,http://www.wikidata.org/entity/Q334,Сингапур,,,http://www.wikidata.org/entity/Q6097,чай,http://commons.wikimedia.org/wiki/Special:FilePath/Wedang%20Jahe.jpg
+http://www.wikidata.org/entity/Q484083,зелёный чай,http://www.wikidata.org/entity/Q6097,чай,,,,,http://www.wikidata.org/entity/Q32022234,чайные листья,http://commons.wikimedia.org/wiki/Special:FilePath/Green%20tea%20-%20%E7%B7%91%E8%8C%B6%20-%20Flickr%20-%20Kanko.jpg
+http://www.wikidata.org/entity/Q5032638,Canned tea,,,,,,,http://www.wikidata.org/entity/Q6097,чай,
+http://www.wikidata.org/entity/Q5208153,daechu-cha,,,,,,,http://www.wikidata.org/entity/Q111029089,корейский фруктовый чай,
+http://www.wikidata.org/entity/Q877661,Масала,,,http://www.wikidata.org/entity/Q668,Индия,,,http://www.wikidata.org/entity/Q1884224,чай с молоком,http://commons.wikimedia.org/wiki/Special:FilePath/Masala%20Chai.JPG
+http://www.wikidata.org/entity/Q170883,Кашмирский чай,,,,,,,http://www.wikidata.org/entity/Q6097,чай,http://commons.wikimedia.org/wiki/Special:FilePath/The%20Great%20Kashmiri%20Salt%20tea.png
+http://www.wikidata.org/entity/Q484083,зелёный чай,http://www.wikidata.org/entity/Q6097,чай,,,,,http://www.wikidata.org/entity/Q6097,чай,http://commons.wikimedia.org/wiki/Special:FilePath/Green%20tea%20-%20%E7%B7%91%E8%8C%B6%20-%20Flickr%20-%20Kanko.jpg
+http://www.wikidata.org/entity/Q1884224,чай с молоком,,,,,,,http://www.wikidata.org/entity/Q6097,чай,http://commons.wikimedia.org/wiki/Special:FilePath/Nice%20Cup%20of%20Tea.jpg
+http://www.wikidata.org/entity/Q634871,Лапсанг Сушонг,,,http://www.wikidata.org/entity/Q148,Китай,,,http://www.wikidata.org/entity/Q203415,чёрный чай,http://commons.wikimedia.org/wiki/Special:FilePath/Lapsang%20Souchong.jpg
+http://www.wikidata.org/entity/Q634871,Лапсанг Сушонг,,,http://www.wikidata.org/entity/Q148,Китай,,,http://www.wikidata.org/entity/Q203415,чёрный чай,http://commons.wikimedia.org/wiki/Special:FilePath/Lapsang%20souchong%20tea.jpg
+http://www.wikidata.org/entity/Q60855,Чай с жасмином,,,,,,,http://www.wikidata.org/entity/Q6097,чай,http://commons.wikimedia.org/wiki/Special:FilePath/Jasmine%20Tea%20blossomed.jpg
+http://www.wikidata.org/entity/Q60855,Чай с жасмином,,,,,,,http://www.wikidata.org/entity/Q484083,зелёный чай,http://commons.wikimedia.org/wiki/Special:FilePath/Jasmine%20Tea%20blossomed.jpg
+http://www.wikidata.org/entity/Q5413353,Jūrokucha,,,,,,,http://www.wikidata.org/entity/Q6097,чай,
+http://www.wikidata.org/entity/Q6097,чай,,,,,,,http://www.wikidata.org/entity/Q1365365,вкусовые продукты,http://commons.wikimedia.org/wiki/Special:FilePath/Tea%20in%20different%20grade%20of%20fermentation.jpg
+http://www.wikidata.org/entity/Q5578812,Gold Peak Tea,,,,,,,http://www.wikidata.org/entity/Q6097,чай,
+http://www.wikidata.org/entity/Q31511,чай юджа,,,,,,,http://www.wikidata.org/entity/Q111029089,корейский фруктовый чай,http://commons.wikimedia.org/wiki/Special:FilePath/Korean%20yuja%20tea.jpg
+http://www.wikidata.org/entity/Q31625,ячменный чай,http://www.wikidata.org/entity/Q1147571,кофезаменители,,,,,http://www.wikidata.org/entity/Q6097,чай,http://commons.wikimedia.org/wiki/Special:FilePath/Boricha%20%28barley%20tea%29.jpg
+http://www.wikidata.org/entity/Q203415,чёрный чай,,,http://www.wikidata.org/entity/Q29520,Китай,,,http://www.wikidata.org/entity/Q5017160,напиток с кофеином,http://commons.wikimedia.org/wiki/Special:FilePath/A%20cup%20of%20black%20tea%20from%20Srimangal%20Bangladesh.jpg
+http://www.wikidata.org/entity/Q1061187,имбирный чай,,,http://www.wikidata.org/entity/Q833,Малайзия,,,http://www.wikidata.org/entity/Q111028903,root tea,http://commons.wikimedia.org/wiki/Special:FilePath/Java%20Wedang%20Jahe.jpg
+http://www.wikidata.org/entity/Q5100949,китайский чай,,,http://www.wikidata.org/entity/Q29520,Китай,,,http://www.wikidata.org/entity/Q6097,чай,http://commons.wikimedia.org/wiki/Special:FilePath/Longjing%20tea%20steeping%20in%20gaiwan.jpg
+http://www.wikidata.org/entity/Q5358446,mogwa-cha,,,,,,,http://www.wikidata.org/entity/Q6097,чай,http://commons.wikimedia.org/wiki/Special:FilePath/Mogwa-cha%201.jpg
+http://www.wikidata.org/entity/Q6097,чай,,,,,,,http://www.wikidata.org/entity/Q11090700,отвар,http://commons.wikimedia.org/wiki/Special:FilePath/Tea%20in%20different%20grade%20of%20fermentation.jpg
+http://www.wikidata.org/entity/Q6037041,ginseng tea,,,,,,,http://www.wikidata.org/entity/Q6097,чай,
+http://www.wikidata.org/entity/Q231587,Улун,,,,,,,http://www.wikidata.org/entity/Q6097,чай,http://commons.wikimedia.org/wiki/Special:FilePath/BZC%20Oolong%20tea%20leaf.jpg
+http://www.wikidata.org/entity/Q1884224,чай с молоком,,,,,,,http://www.wikidata.org/entity/Q6097,чай,http://commons.wikimedia.org/wiki/Special:FilePath/Tea%20and%20Milk.jpeg
+http://www.wikidata.org/entity/Q6097,чай,,,,,,,http://www.wikidata.org/entity/Q61951,настой,http://commons.wikimedia.org/wiki/Special:FilePath/Tea%20in%20different%20grade%20of%20fermentation.jpg
+http://www.wikidata.org/entity/Q5615230,goji tea,,,,,,,http://www.wikidata.org/entity/Q111029089,корейский фруктовый чай,
+http://www.wikidata.org/entity/Q7429107,Sayama tea,,,http://www.wikidata.org/entity/Q17,Япония,,,http://www.wikidata.org/entity/Q6097,чай,http://commons.wikimedia.org/wiki/Special:FilePath/Sayama%20teaba.jpg
+http://www.wikidata.org/entity/Q1828662,Лапачо,,,,,,,http://www.wikidata.org/entity/Q6097,чай,http://commons.wikimedia.org/wiki/Special:FilePath/Lapacho%20Teerinde.JPG
+http://www.wikidata.org/entity/Q3526264,flavored tea,,,,,,,http://www.wikidata.org/entity/Q6097,чай,
+http://www.wikidata.org/entity/Q1061187,имбирный чай,,,http://www.wikidata.org/entity/Q833,Малайзия,,,http://www.wikidata.org/entity/Q6097,чай,http://commons.wikimedia.org/wiki/Special:FilePath/Ginger%20tea-01.jpg
+http://www.wikidata.org/entity/Q1061187,имбирный чай,,,http://www.wikidata.org/entity/Q833,Малайзия,,,http://www.wikidata.org/entity/Q6097,чай,http://commons.wikimedia.org/wiki/Special:FilePath/Teh%20Halia%20%28Singapore%29.jpg
+http://www.wikidata.org/entity/Q1061187,имбирный чай,,,http://www.wikidata.org/entity/Q833,Малайзия,,,http://www.wikidata.org/entity/Q6097,чай,http://commons.wikimedia.org/wiki/Special:FilePath/Wedang%20Jahe.jpg
+http://www.wikidata.org/entity/Q4513001,Черингма,,,http://www.wikidata.org/entity/Q917,Бутан,,,http://www.wikidata.org/entity/Q6097,чай,
+http://www.wikidata.org/entity/Q2542583,Постферментированный чай,,,,,,,http://www.wikidata.org/entity/Q6097,чай,http://commons.wikimedia.org/wiki/Special:FilePath/Golden%20melon.jpg
+http://www.wikidata.org/entity/Q595559,ogwa-cha,,,,,,,http://www.wikidata.org/entity/Q6097,чай,
+http://www.wikidata.org/entity/Q1061187,имбирный чай,,,http://www.wikidata.org/entity/Q252,Индонезия,,,http://www.wikidata.org/entity/Q111028903,root tea,http://commons.wikimedia.org/wiki/Special:FilePath/Java%20Wedang%20Jahe.jpg
+http://www.wikidata.org/entity/Q708203,Хризантемовый чай,,,,,,,http://www.wikidata.org/entity/Q111029394,Korean flower and leaf tea,http://commons.wikimedia.org/wiki/Special:FilePath/Korean%20chrysanthemum%20tea-Gukhwacha-01.jpg
+http://www.wikidata.org/entity/Q1061187,имбирный чай,,,http://www.wikidata.org/entity/Q334,Сингапур,,,http://www.wikidata.org/entity/Q6097,чай,http://commons.wikimedia.org/wiki/Special:FilePath/Java%20Wedang%20Jahe.jpg
+http://www.wikidata.org/entity/Q940047,Каркаде,,,,,,,http://www.wikidata.org/entity/Q40050,напиток,http://commons.wikimedia.org/wiki/Special:FilePath/Chai%20torsh%20-%20Hibiscus%20tea.png
+http://www.wikidata.org/entity/Q940047,Каркаде,,,,,,,http://www.wikidata.org/entity/Q40050,напиток,http://commons.wikimedia.org/wiki/Special:FilePath/Homemade%20sorrel%20drink.jpg
+http://www.wikidata.org/entity/Q989930,Часуйма,,,http://www.wikidata.org/entity/Q668,Индия,,,http://www.wikidata.org/entity/Q6097,чай,http://commons.wikimedia.org/wiki/Special:FilePath/Tibetan%20butter%20tea.jpg
+http://www.wikidata.org/entity/Q989930,Часуйма,,,http://www.wikidata.org/entity/Q668,Индия,,,http://www.wikidata.org/entity/Q6097,чай,http://commons.wikimedia.org/wiki/Special:FilePath/Monk%20churning%20butter%20tea.JPG
+http://www.wikidata.org/entity/Q6097,чай,,,,,,,http://www.wikidata.org/entity/Q19359564,горячий напиток,http://commons.wikimedia.org/wiki/Special:FilePath/Tea%20in%20different%20grade%20of%20fermentation.jpg
+http://www.wikidata.org/entity/Q1061187,имбирный чай,,,http://www.wikidata.org/entity/Q252,Индонезия,,,http://www.wikidata.org/entity/Q6097,чай,http://commons.wikimedia.org/wiki/Special:FilePath/Ginger%20tea-01.jpg
+http://www.wikidata.org/entity/Q1061187,имбирный чай,,,http://www.wikidata.org/entity/Q252,Индонезия,,,http://www.wikidata.org/entity/Q6097,чай,http://commons.wikimedia.org/wiki/Special:FilePath/Teh%20Halia%20%28Singapore%29.jpg
+http://www.wikidata.org/entity/Q1061187,имбирный чай,,,http://www.wikidata.org/entity/Q252,Индонезия,,,http://www.wikidata.org/entity/Q6097,чай,http://commons.wikimedia.org/wiki/Special:FilePath/Wedang%20Jahe.jpg
+http://www.wikidata.org/entity/Q484083,зелёный чай,http://www.wikidata.org/entity/Q6097,чай,,,,,http://www.wikidata.org/entity/Q27684991,kampo herb,http://commons.wikimedia.org/wiki/Special:FilePath/Green%20tea%20-%20%E7%B7%91%E8%8C%B6%20-%20Flickr%20-%20Kanko.jpg
+http://www.wikidata.org/entity/Q940047,Каркаде,,,,,,,http://www.wikidata.org/entity/Q6097,чай,http://commons.wikimedia.org/wiki/Special:FilePath/Chai%20torsh%20-%20Hibiscus%20tea.png
+http://www.wikidata.org/entity/Q940047,Каркаде,,,,,,,http://www.wikidata.org/entity/Q6097,чай,http://commons.wikimedia.org/wiki/Special:FilePath/Homemade%20sorrel%20drink.jpg
+http://www.wikidata.org/entity/Q492205,Гранулированный чай,,,,,,,http://www.wikidata.org/entity/Q6097,чай,http://commons.wikimedia.org/wiki/Special:FilePath/Assam%20CTC%20Hanamizuki%202009.JPG
+http://www.wikidata.org/entity/Q1061187,имбирный чай,,,http://www.wikidata.org/entity/Q334,Сингапур,,,http://www.wikidata.org/entity/Q111028903,root tea,http://commons.wikimedia.org/wiki/Special:FilePath/Ginger%20tea-01.jpg
+http://www.wikidata.org/entity/Q1061187,имбирный чай,,,http://www.wikidata.org/entity/Q334,Сингапур,,,http://www.wikidata.org/entity/Q111028903,root tea,http://commons.wikimedia.org/wiki/Special:FilePath/Teh%20Halia%20%28Singapore%29.jpg
+http://www.wikidata.org/entity/Q1061187,имбирный чай,,,http://www.wikidata.org/entity/Q334,Сингапур,,,http://www.wikidata.org/entity/Q111028903,root tea,http://commons.wikimedia.org/wiki/Special:FilePath/Wedang%20Jahe.jpg
+http://www.wikidata.org/entity/Q348958,холодный чай,,,,,,,http://www.wikidata.org/entity/Q147538,освежающий напиток,http://commons.wikimedia.org/wiki/Special:FilePath/NCI%20iced%20tea.jpg
+http://www.wikidata.org/entity/Q4289155,Q4289155,,,,,,,http://www.wikidata.org/entity/Q6097,чай,
+http://www.wikidata.org/entity/Q348958,холодный чай,,,,,,,http://www.wikidata.org/entity/Q147538,освежающий напиток,http://commons.wikimedia.org/wiki/Special:FilePath/ES%20TEH%20MANIS.jpg
+http://www.wikidata.org/entity/Q2035490,East Friesland tea blend,,,,,,,http://www.wikidata.org/entity/Q203415,чёрный чай,
+http://www.wikidata.org/entity/Q7130450,Панда чай,,,,,,,http://www.wikidata.org/entity/Q6097,чай,
+http://www.wikidata.org/entity/Q6037041,ginseng tea,,,,,,,http://www.wikidata.org/entity/Q111028903,root tea,
+http://www.wikidata.org/entity/Q31511,чай юджа,,,,,,,http://www.wikidata.org/entity/Q6097,чай,http://commons.wikimedia.org/wiki/Special:FilePath/Korean%20yuja%20tea.jpg
+http://www.wikidata.org/entity/Q5208153,daechu-cha,,,,,,,http://www.wikidata.org/entity/Q6097,чай,
+http://www.wikidata.org/entity/Q348958,холодный чай,,,,,,,http://www.wikidata.org/entity/Q6097,чай,http://commons.wikimedia.org/wiki/Special:FilePath/NCI%20iced%20tea.jpg
+http://www.wikidata.org/entity/Q6097,чай,,,,,,,http://www.wikidata.org/entity/Q2647467,безалкогольный напиток,http://commons.wikimedia.org/wiki/Special:FilePath/Tea%20in%20different%20grade%20of%20fermentation.jpg
+http://www.wikidata.org/entity/Q5032638,Canned tea,,,,,,,http://www.wikidata.org/entity/Q2647467,безалкогольный напиток,
+http://www.wikidata.org/entity/Q5032638,Canned tea,,,,,,,http://www.wikidata.org/entity/Q11617958,tea without tea leaves,
+http://www.wikidata.org/entity/Q4938043,Wuyi tea,,,,,,,http://www.wikidata.org/entity/Q6097,чай,http://commons.wikimedia.org/wiki/Special:FilePath/Da%20Hong%20Pao%20Oolong%20tea%20leaf.jpg
+http://www.wikidata.org/entity/Q2906397,Tea blending and additives,,,,,,,http://www.wikidata.org/entity/Q6097,чай,
+http://www.wikidata.org/entity/Q348958,холодный чай,,,,,,,http://www.wikidata.org/entity/Q6097,чай,http://commons.wikimedia.org/wiki/Special:FilePath/ES%20TEH%20MANIS.jpg
+http://www.wikidata.org/entity/Q1061187,имбирный чай,,,http://www.wikidata.org/entity/Q833,Малайзия,,,http://www.wikidata.org/entity/Q6097,чай,http://commons.wikimedia.org/wiki/Special:FilePath/Java%20Wedang%20Jahe.jpg
+http://www.wikidata.org/entity/Q31625,ячменный чай,http://www.wikidata.org/entity/Q1147571,кофезаменители,,,,,http://www.wikidata.org/entity/Q111028971,seed tea,http://commons.wikimedia.org/wiki/Special:FilePath/Boricha%20%28barley%20tea%29.jpg
+http://www.wikidata.org/entity/Q1204167,плиточный чай,,,,,,,http://www.wikidata.org/entity/Q6097,чай,http://commons.wikimedia.org/wiki/Special:FilePath/Brick%20tea%20%28Old%20Fort%20Erie%29.jpg
+http://www.wikidata.org/entity/Q1204167,плиточный чай,,,,,,,http://www.wikidata.org/entity/Q6097,чай,http://commons.wikimedia.org/wiki/Special:FilePath/Brick%20tea%20wik%20commens.JPG
+http://www.wikidata.org/entity/Q1204167,плиточный чай,,,,,,,http://www.wikidata.org/entity/Q6097,чай,http://commons.wikimedia.org/wiki/Special:FilePath/Golden%20melon.jpg
+http://www.wikidata.org/entity/Q170883,Кашмирский чай,,,,,,,http://www.wikidata.org/entity/Q6097,чай,http://commons.wikimedia.org/wiki/Special:FilePath/Kashmiri%20Chai.JPG
+http://www.wikidata.org/entity/Q5944847,Q5944847,,,http://www.wikidata.org/entity/Q869,Таиланд,,,http://www.wikidata.org/entity/Q6097,чай,
+http://www.wikidata.org/entity/Q5358446,mogwa-cha,,,,,,,http://www.wikidata.org/entity/Q111029089,корейский фруктовый чай,http://commons.wikimedia.org/wiki/Special:FilePath/Mogwa-cha%201.jpg
+http://www.wikidata.org/entity/Q207788,Эрл Грей,,,http://www.wikidata.org/entity/Q21,Англия,,,http://www.wikidata.org/entity/Q203415,чёрный чай,http://commons.wikimedia.org/wiki/Special:FilePath/Earl%20Grey%20Tea.jpg
+http://www.wikidata.org/entity/Q207788,Эрл Грей,,,http://www.wikidata.org/entity/Q21,Англия,,,http://www.wikidata.org/entity/Q203415,чёрный чай,http://commons.wikimedia.org/wiki/Special:FilePath/Frisch%20aufgebr%C3%BChter%20EarlGrey%20Tee.jpg
+http://www.wikidata.org/entity/Q107809872,Maison Bourgeon,,,,,,,http://www.wikidata.org/entity/Q6097,чай,
+http://www.wikidata.org/entity/Q30043882,gyepi-cha,,,,,,,http://www.wikidata.org/entity/Q6097,чай,
+http://www.wikidata.org/entity/Q111029394,Korean flower and leaf tea,,,,,,,http://www.wikidata.org/entity/Q111029945,цветочный чай,
+http://www.wikidata.org/entity/Q30043849,peach blossom tea,,,,,,,http://www.wikidata.org/entity/Q6097,чай,http://commons.wikimedia.org/wiki/Special:FilePath/Dohwa-cha.jpg
+http://www.wikidata.org/entity/Q50304474,lotus tea,,,,,,,http://www.wikidata.org/entity/Q6097,чай,http://commons.wikimedia.org/wiki/Special:FilePath/Dried%20lotus%20root%20slices.jpg
+http://www.wikidata.org/entity/Q50304474,lotus tea,,,,,,,http://www.wikidata.org/entity/Q6097,чай,http://commons.wikimedia.org/wiki/Special:FilePath/Dried%20steamed%20lotus%20leaves.jpg
+http://www.wikidata.org/entity/Q50304474,lotus tea,,,,,,,http://www.wikidata.org/entity/Q6097,чай,http://commons.wikimedia.org/wiki/Special:FilePath/Drying%20steamed%20lotus%20leaves%202.jpg
+http://www.wikidata.org/entity/Q50304474,lotus tea,,,,,,,http://www.wikidata.org/entity/Q6097,чай,http://commons.wikimedia.org/wiki/Special:FilePath/Lotus%20flower%20tea.jpg
+http://www.wikidata.org/entity/Q50304474,lotus tea,,,,,,,http://www.wikidata.org/entity/Q6097,чай,http://commons.wikimedia.org/wiki/Special:FilePath/Lotus%20leaf%20tea.jpg
+http://www.wikidata.org/entity/Q50304474,lotus tea,,,,,,,http://www.wikidata.org/entity/Q6097,чай,http://commons.wikimedia.org/wiki/Special:FilePath/Lotus%20root%20tea%201.jpg
+http://www.wikidata.org/entity/Q50304474,lotus tea,,,,,,,http://www.wikidata.org/entity/Q6097,чай,http://commons.wikimedia.org/wiki/Special:FilePath/Lotus%20root%20tea%202.jpg
+http://www.wikidata.org/entity/Q50304474,lotus tea,,,,,,,http://www.wikidata.org/entity/Q6097,чай,http://commons.wikimedia.org/wiki/Special:FilePath/Roasting%20lotus%20leaves.jpg
+http://www.wikidata.org/entity/Q50304474,lotus tea,,,,,,,http://www.wikidata.org/entity/Q6097,чай,http://commons.wikimedia.org/wiki/Special:FilePath/Slicing%20lotus%20leaves.jpg
+http://www.wikidata.org/entity/Q50304474,lotus tea,,,,,,,http://www.wikidata.org/entity/Q6097,чай,http://commons.wikimedia.org/wiki/Special:FilePath/Steamed%20lotus%20leaves%202.jpg
+http://www.wikidata.org/entity/Q89267810,Tekoe,,,,,,,http://www.wikidata.org/entity/Q6097,чай,
+http://www.wikidata.org/entity/Q30043962,ssuk-cha,,,,,,,http://www.wikidata.org/entity/Q6097,чай,http://commons.wikimedia.org/wiki/Special:FilePath/Ssukcha.jpg
+http://www.wikidata.org/entity/Q61076621,Pure Leaf,,,http://www.wikidata.org/entity/Q30,США,,,http://www.wikidata.org/entity/Q6097,чай,
+http://www.wikidata.org/entity/Q123663523,Tea Koshari,,,,,,,http://www.wikidata.org/entity/Q7892,питьевая вода,
+http://www.wikidata.org/entity/Q105975861,tea brand,,,,,,,http://www.wikidata.org/entity/Q6097,чай,
+http://www.wikidata.org/entity/Q28533123,омиджача,,,,,,,http://www.wikidata.org/entity/Q6097,чай,http://commons.wikimedia.org/wiki/Special:FilePath/Omijacha.jpg
+http://www.wikidata.org/entity/Q115301128,Moli Baihao Yinzhen,,,http://www.wikidata.org/entity/Q148,Китай,,,http://www.wikidata.org/entity/Q60855,Чай с жасмином,
+http://www.wikidata.org/entity/Q74185161,Babaocha,,,,,,,http://www.wikidata.org/entity/Q6097,чай,
+http://www.wikidata.org/entity/Q30932299,Ji-kōcha,,,,,,,http://www.wikidata.org/entity/Q6097,чай,
+http://www.wikidata.org/entity/Q61302348,bootealicious,,,http://www.wikidata.org/entity/Q16,Канада,,,http://www.wikidata.org/entity/Q6097,чай,
+http://www.wikidata.org/entity/Q30043999,yulmu-cha,,,http://www.wikidata.org/entity/Q18097,Корея,,,http://www.wikidata.org/entity/Q111028971,seed tea,http://commons.wikimedia.org/wiki/Special:FilePath/Yulmucha%20in%20cup.jpg
+http://www.wikidata.org/entity/Q123663523,Tea Koshari,,,,,,,http://www.wikidata.org/entity/Q11090700,отвар,
+http://www.wikidata.org/entity/Q56342268,Ройбос,,,http://www.wikidata.org/entity/Q258,ЮАР,,,http://www.wikidata.org/entity/Q6097,чай,http://commons.wikimedia.org/wiki/Special:FilePath/Frisch%20aufgebr%C3%BChter%20Rooibos.jpg
+http://www.wikidata.org/entity/Q131405252,Q131405252,,,,,,,http://www.wikidata.org/entity/Q6097,чай,
+http://www.wikidata.org/entity/Q63322955,Sweet tea,,,,,,,http://www.wikidata.org/entity/Q6097,чай,
+http://www.wikidata.org/entity/Q30922606,Q30922606,,,,,,,http://www.wikidata.org/entity/Q6097,чай,
+http://www.wikidata.org/entity/Q123663523,Tea Koshari,,,,,,,http://www.wikidata.org/entity/Q2647467,безалкогольный напиток,
+http://www.wikidata.org/entity/Q30925932,Q30925932,,,,,,,http://www.wikidata.org/entity/Q6097,чай,
+http://www.wikidata.org/entity/Q24872292,Q24872292,,,,,,,http://www.wikidata.org/entity/Q6097,чай,
+http://www.wikidata.org/entity/Q111029089,корейский фруктовый чай,,,,,,,http://www.wikidata.org/entity/Q744457,фруктовый чай,
+http://www.wikidata.org/entity/Q25059058,Kuwaiti tea,,,http://www.wikidata.org/entity/Q817,Кувейт,,,http://www.wikidata.org/entity/Q6097,чай,
+http://www.wikidata.org/entity/Q30043849,peach blossom tea,,,,,,,http://www.wikidata.org/entity/Q111029394,Korean flower and leaf tea,http://commons.wikimedia.org/wiki/Special:FilePath/Dohwa-cha.jpg
+http://www.wikidata.org/entity/Q50304474,lotus tea,,,,,,,http://www.wikidata.org/entity/Q111029394,Korean flower and leaf tea,http://commons.wikimedia.org/wiki/Special:FilePath/Dried%20lotus%20root%20slices.jpg
+http://www.wikidata.org/entity/Q50304474,lotus tea,,,,,,,http://www.wikidata.org/entity/Q111029394,Korean flower and leaf tea,http://commons.wikimedia.org/wiki/Special:FilePath/Dried%20steamed%20lotus%20leaves.jpg
+http://www.wikidata.org/entity/Q50304474,lotus tea,,,,,,,http://www.wikidata.org/entity/Q111029394,Korean flower and leaf tea,http://commons.wikimedia.org/wiki/Special:FilePath/Drying%20steamed%20lotus%20leaves%202.jpg
+http://www.wikidata.org/entity/Q50304474,lotus tea,,,,,,,http://www.wikidata.org/entity/Q111029394,Korean flower and leaf tea,http://commons.wikimedia.org/wiki/Special:FilePath/Lotus%20flower%20tea.jpg
+http://www.wikidata.org/entity/Q50304474,lotus tea,,,,,,,http://www.wikidata.org/entity/Q111029394,Korean flower and leaf tea,http://commons.wikimedia.org/wiki/Special:FilePath/Lotus%20leaf%20tea.jpg
+http://www.wikidata.org/entity/Q50304474,lotus tea,,,,,,,http://www.wikidata.org/entity/Q111029394,Korean flower and leaf tea,http://commons.wikimedia.org/wiki/Special:FilePath/Lotus%20root%20tea%201.jpg
+http://www.wikidata.org/entity/Q50304474,lotus tea,,,,,,,http://www.wikidata.org/entity/Q111029394,Korean flower and leaf tea,http://commons.wikimedia.org/wiki/Special:FilePath/Lotus%20root%20tea%202.jpg
+http://www.wikidata.org/entity/Q50304474,lotus tea,,,,,,,http://www.wikidata.org/entity/Q111029394,Korean flower and leaf tea,http://commons.wikimedia.org/wiki/Special:FilePath/Roasting%20lotus%20leaves.jpg
+http://www.wikidata.org/entity/Q50304474,lotus tea,,,,,,,http://www.wikidata.org/entity/Q111029394,Korean flower and leaf tea,http://commons.wikimedia.org/wiki/Special:FilePath/Slicing%20lotus%20leaves.jpg
+http://www.wikidata.org/entity/Q50304474,lotus tea,,,,,,,http://www.wikidata.org/entity/Q111029394,Korean flower and leaf tea,http://commons.wikimedia.org/wiki/Special:FilePath/Steamed%20lotus%20leaves%202.jpg
+http://www.wikidata.org/entity/Q30043962,ssuk-cha,,,,,,,http://www.wikidata.org/entity/Q111029394,Korean flower and leaf tea,http://commons.wikimedia.org/wiki/Special:FilePath/Ssukcha.jpg
+http://www.wikidata.org/entity/Q115301128,Moli Baihao Yinzhen,,,http://www.wikidata.org/entity/Q148,Китай,,,http://www.wikidata.org/entity/Q238306,белый чай,
+http://www.wikidata.org/entity/Q65255577,Q65255577,,,,,,,http://www.wikidata.org/entity/Q6097,чай,
+http://www.wikidata.org/entity/Q42366415,Limeflower tea,,,,,,,http://www.wikidata.org/entity/Q6097,чай,
+http://www.wikidata.org/entity/Q111028903,root tea,,,,,,,http://www.wikidata.org/entity/Q6097,чай,
+http://www.wikidata.org/entity/Q111028971,seed tea,,,,,,,http://www.wikidata.org/entity/Q6097,чай,
+http://www.wikidata.org/entity/Q111029394,Korean flower and leaf tea,,,,,,,http://www.wikidata.org/entity/Q6097,чай,
+http://www.wikidata.org/entity/Q111029089,корейский фруктовый чай,,,,,,,http://www.wikidata.org/entity/Q6097,чай,
+http://www.wikidata.org/entity/Q105975861,tea brand,,,,,,,http://www.wikidata.org/entity/Q431289,бренд,
+http://www.wikidata.org/entity/Q107208174,Twisted Tea,,,,,,,http://www.wikidata.org/entity/Q154,алкогольный напиток,
+http://www.wikidata.org/entity/Q107208174,Twisted Tea,,,,,,,http://www.wikidata.org/entity/Q6097,чай,
+http://www.wikidata.org/entity/Q28533123,омиджача,,,,,,,http://www.wikidata.org/entity/Q111029089,корейский фруктовый чай,http://commons.wikimedia.org/wiki/Special:FilePath/Omijacha.jpg
+http://www.wikidata.org/entity/Q65270919,Q65270919,,,,,,,http://www.wikidata.org/entity/Q6097,чай,
+http://www.wikidata.org/entity/Q30043999,yulmu-cha,,,http://www.wikidata.org/entity/Q18097,Корея,,,http://www.wikidata.org/entity/Q6097,чай,http://commons.wikimedia.org/wiki/Special:FilePath/Yulmucha%20in%20cup.jpg
+http://www.wikidata.org/entity/Q123663523,Tea Koshari,,,,,,,http://www.wikidata.org/entity/Q6097,чай,
+http://www.wikidata.org/entity/Q123663523,Tea Koshari,,,,,,,http://www.wikidata.org/entity/Q11002,сахар,
+http://www.wikidata.org/entity/Q105975861,tea brand,,,,,,,http://www.wikidata.org/entity/Q167270,товарный знак,
+http://www.wikidata.org/entity/Q61076621,Pure Leaf,,,http://www.wikidata.org/entity/Q30,США,,,http://www.wikidata.org/entity/Q348958,холодный чай,
+http://www.wikidata.org/entity/Q107806657,Yunnan Sourcing,,,,,,,http://www.wikidata.org/entity/Q6097,чай,
+http://www.wikidata.org/entity/Q56276135,dried lime tea,,,,,,,http://www.wikidata.org/entity/Q6097,чай,
+http://www.wikidata.org/entity/Q12583504,gyeolmyeongja-cha,,,,,,,http://www.wikidata.org/entity/Q111028971,seed tea,http://commons.wikimedia.org/wiki/Special:FilePath/Gyeolmyeongja-cha.jpg
+http://www.wikidata.org/entity/Q124606582,Asamushi,,,http://www.wikidata.org/entity/Q17,Япония,,,http://www.wikidata.org/entity/Q484083,зелёный чай,
+http://www.wikidata.org/entity/Q11665702,Sasso,,,,,,,http://www.wikidata.org/entity/Q6097,чай,
+http://www.wikidata.org/entity/Q11390756,Yamecha,,,,,,,http://www.wikidata.org/entity/Q484083,зелёный чай,
+http://www.wikidata.org/entity/Q11617958,tea without tea leaves,,,,,,,http://www.wikidata.org/entity/Q6097,чай,
+http://www.wikidata.org/entity/Q56316357,May Tea,,,http://www.wikidata.org/entity/Q142,Франция,,,http://www.wikidata.org/entity/Q348958,холодный чай,http://commons.wikimedia.org/wiki/Special:FilePath/May%20Tea%20%2843441414151%29.jpg
+http://www.wikidata.org/entity/Q3409048,Q3409048,,,,,,,,,
+http://www.wikidata.org/entity/Q28162884,Libyan tea,,,http://www.wikidata.org/entity/Q1016,Ливия,,,,,http://commons.wikimedia.org/wiki/Special:FilePath/Libyan%20green%20tea.jpg
+http://www.wikidata.org/entity/Q124606580,Irimushi,,,http://www.wikidata.org/entity/Q17,Япония,,,http://www.wikidata.org/entity/Q1334390,сентя,
+http://www.wikidata.org/entity/Q11678540,Black Oolong Tea,,,,,,,http://www.wikidata.org/entity/Q231587,Улун,
+http://www.wikidata.org/entity/Q30043860,doncha,,,http://www.wikidata.org/entity/Q18097,Корея,,,http://www.wikidata.org/entity/Q1204167,плиточный чай,
+http://www.wikidata.org/entity/Q85209885,Маття,,,http://www.wikidata.org/entity/Q29520,Китай,,,http://www.wikidata.org/entity/Q11509025,японский чай,http://commons.wikimedia.org/wiki/Special:FilePath/Matcha%20%286328677556%29.jpg
+http://www.wikidata.org/entity/Q11574844,Nama-cha,,,,,,,http://www.wikidata.org/entity/Q484083,зелёный чай,
+http://www.wikidata.org/entity/Q203540,мате,,,http://www.wikidata.org/entity/Q733,Парагвай,,,http://www.wikidata.org/entity/Q379932,фиточай,http://commons.wikimedia.org/wiki/Special:FilePath/Erva%20mate%20chimarrao%20in%20big%20cuia.jpg
+http://www.wikidata.org/entity/Q65284030,Ōmi tea,,,http://www.wikidata.org/entity/Q17,Япония,,,http://www.wikidata.org/entity/Q484083,зелёный чай,http://commons.wikimedia.org/wiki/Special:FilePath/%C5%8Cmi%20Tea%20garden%2C%20Mushouno%2C%20Minakuchi%2002.jpg
+http://www.wikidata.org/entity/Q3526267,tea with pine nuts,,,http://www.wikidata.org/entity/Q948,Тунис,,,,,http://commons.wikimedia.org/wiki/Special:FilePath/Th%C3%A9%20aux%20pignons%20de%20Tunisie%2C%2010%20mars%202008.jpg
+http://www.wikidata.org/entity/Q10723893,Yù Lù,,,,,,,http://www.wikidata.org/entity/Q6097,чай,
+http://www.wikidata.org/entity/Q203540,мате,,,http://www.wikidata.org/entity/Q414,Аргентина,,,http://www.wikidata.org/entity/Q379932,фиточай,http://commons.wikimedia.org/wiki/Special:FilePath/Erva%20mate%20chimarrao%20in%20big%20cuia.jpg
+http://www.wikidata.org/entity/Q124606580,Irimushi,,,http://www.wikidata.org/entity/Q17,Япония,,,http://www.wikidata.org/entity/Q484083,зелёный чай,
+http://www.wikidata.org/entity/Q10896081,fenghuang dancong,,,,,,,,,
+http://www.wikidata.org/entity/Q11560264,Фукамуситя,,,http://www.wikidata.org/entity/Q17,Япония,,,http://www.wikidata.org/entity/Q1334390,сентя,http://commons.wikimedia.org/wiki/Special:FilePath/Fukamushi%20Kakegawa%20Cha%20201812mid.jpg
+http://www.wikidata.org/entity/Q135669278,Chai ya Maziwa,,,http://www.wikidata.org/entity/Q114,Кения,,,http://www.wikidata.org/entity/Q2647467,безалкогольный напиток,http://commons.wikimedia.org/wiki/Special:FilePath/Chai-ya-maziwa-wikimania-2025-nairobi.jpg
+http://www.wikidata.org/entity/Q10327477,Matte Leão,,,,,,,http://www.wikidata.org/entity/Q6097,чай,http://commons.wikimedia.org/wiki/Special:FilePath/Matte%20Le%C3%A3o%20-%20300ml.jpg
+http://www.wikidata.org/entity/Q7429107,Sayama tea,,,http://www.wikidata.org/entity/Q17,Япония,,,http://www.wikidata.org/entity/Q11509025,японский чай,http://commons.wikimedia.org/wiki/Special:FilePath/Sayama%20teaba.jpg
+http://www.wikidata.org/entity/Q11784344,Mocha chai,,,,,,,http://www.wikidata.org/entity/Q877661,Масала,
+http://www.wikidata.org/entity/Q10915378,тайваньский чай,,,http://www.wikidata.org/entity/Q865,Китайская Республика (Тайвань),,,http://www.wikidata.org/entity/Q6097,чай,http://commons.wikimedia.org/wiki/Special:FilePath/Taiwan%202009%20WuHe%20County%20Tea%20Plantation%20FRD%206216.jpg
+http://www.wikidata.org/entity/Q134705664,Duyun Maojian,,,,,,,http://www.wikidata.org/entity/Q484083,зелёный чай,
+http://www.wikidata.org/entity/Q11560264,Фукамуситя,,,http://www.wikidata.org/entity/Q17,Япония,,,http://www.wikidata.org/entity/Q1334390,сентя,http://commons.wikimedia.org/wiki/Special:FilePath/Fukamushicha.jpg
+http://www.wikidata.org/entity/Q10441446,Brick tea,,,,,,,http://www.wikidata.org/entity/Q6097,чай,http://commons.wikimedia.org/wiki/Special:FilePath/China%20Tea%20%282511287770%29.jpg
+http://www.wikidata.org/entity/Q16241448,Baimao Hou,,,,,,,http://www.wikidata.org/entity/Q238306,белый чай,http://commons.wikimedia.org/wiki/Special:FilePath/White-monkey-gross.jpg
+http://www.wikidata.org/entity/Q16241448,Baimao Hou,,,,,,,http://www.wikidata.org/entity/Q238306,белый чай,http://commons.wikimedia.org/wiki/Special:FilePath/White-monkey-kanne-gross.jpg
+http://www.wikidata.org/entity/Q10379694,Tuocha,,,,,,,,,http://commons.wikimedia.org/wiki/Special:FilePath/Xiaguan%201992%20tuo%20cha.jpg
+http://www.wikidata.org/entity/Q8015507,Nepal tea,,,,,,,http://www.wikidata.org/entity/Q6097,чай,
+http://www.wikidata.org/entity/Q11605259,Kocha kaden,,,,,,,http://www.wikidata.org/entity/Q203415,чёрный чай,
+http://www.wikidata.org/entity/Q22124487,fukucha,,,,,,,http://www.wikidata.org/entity/Q6097,чай,http://commons.wikimedia.org/wiki/Special:FilePath/%E6%97%A5%E6%9C%AC%E3%81%AE%E3%81%8A%E6%AD%A3%E6%9C%882013%2008%20%E7%A6%8F%E8%8C%B6%20%288341755142%29.jpg
+http://www.wikidata.org/entity/Q115300807,Yesheng Bai Ya tea,,,http://www.wikidata.org/entity/Q148,Китай,,,http://www.wikidata.org/entity/Q238306,белый чай,
+http://www.wikidata.org/entity/Q11509519,NITTOHNE,,,,,,,http://www.wikidata.org/entity/Q203415,чёрный чай,
+http://www.wikidata.org/entity/Q134705664,Duyun Maojian,,,,,,,http://www.wikidata.org/entity/Q5100949,китайский чай,
+http://www.wikidata.org/entity/Q135669278,Chai ya Maziwa,,,http://www.wikidata.org/entity/Q114,Кения,,,http://www.wikidata.org/entity/Q877661,Масала,http://commons.wikimedia.org/wiki/Special:FilePath/Chai-ya-maziwa-wikimania-2025-nairobi.jpg
+http://www.wikidata.org/entity/Q11663583,Shizuoka tea,,,http://www.wikidata.org/entity/Q17,Япония,,,http://www.wikidata.org/entity/Q484083,зелёный чай,http://commons.wikimedia.org/wiki/Special:FilePath/%E4%BB%8A%E5%AE%AE%E3%81%AE%E8%8C%B6%E7%95%91%20-%20panoramio%20%282%29.jpg
+http://www.wikidata.org/entity/Q125307881,Wakoucha,,,http://www.wikidata.org/entity/Q17,Япония,,,http://www.wikidata.org/entity/Q203415,чёрный чай,
+http://www.wikidata.org/entity/Q18338622,Oi Ocha,,,,,,,http://www.wikidata.org/entity/Q484083,зелёный чай,
+http://www.wikidata.org/entity/Q19704254,chamomile tea,,,,,,,,,
+http://www.wikidata.org/entity/Q11287400,Растворимый чай,,,,,,,http://www.wikidata.org/entity/Q12565022,пищевой концентрат,http://commons.wikimedia.org/wiki/Special:FilePath/Funmatsucha.jpg
+http://www.wikidata.org/entity/Q24841542,Powchong,,,,,,,,,
+http://www.wikidata.org/entity/Q8427059,чай с лимоном,,,,,,,http://www.wikidata.org/entity/Q6097,чай,http://commons.wikimedia.org/wiki/Special:FilePath/Tea%20%281%29.JPG
+http://www.wikidata.org/entity/Q11509025,японский чай,,,http://www.wikidata.org/entity/Q17,Япония,,,http://www.wikidata.org/entity/Q6097,чай,http://commons.wikimedia.org/wiki/Special:FilePath/Green%20tea%20leaves.jpg
+http://www.wikidata.org/entity/Q137611595,flavoured tea,,,,,,,http://www.wikidata.org/entity/Q6097,чай,
+http://www.wikidata.org/entity/Q12583504,gyeolmyeongja-cha,,,,,,,http://www.wikidata.org/entity/Q6097,чай,http://commons.wikimedia.org/wiki/Special:FilePath/Gyeolmyeongja-cha.jpg
+http://www.wikidata.org/entity/Q15894315,Jin Jun Mei tea,,,,,,,http://www.wikidata.org/entity/Q203415,чёрный чай,http://commons.wikimedia.org/wiki/Special:FilePath/Jin%20Jun%20Mei.jpg
+http://www.wikidata.org/entity/Q15894315,Jin Jun Mei tea,,,,,,,http://www.wikidata.org/entity/Q203415,чёрный чай,http://commons.wikimedia.org/wiki/Special:FilePath/Jin%20Jun%20Mei%20tea.jpg
+http://www.wikidata.org/entity/Q106365726,Zhuyeqing Tea,,,,,,,http://www.wikidata.org/entity/Q484083,зелёный чай,
+http://www.wikidata.org/entity/Q136324449,MX3 Tea,,,,,,,,,
+http://www.wikidata.org/entity/Q85209885,Маття,,,http://www.wikidata.org/entity/Q29520,Китай,,,http://www.wikidata.org/entity/Q484083,зелёный чай,http://commons.wikimedia.org/wiki/Special:FilePath/Matcha%20%286328677556%29.jpg
+http://www.wikidata.org/entity/Q124606581,Chūmushi,,,http://www.wikidata.org/entity/Q17,Япония,,,http://www.wikidata.org/entity/Q1334390,сентя,
+http://www.wikidata.org/entity/Q11678829,Black soybean tea,,,,,,,http://www.wikidata.org/entity/Q6097,чай,
+http://www.wikidata.org/entity/Q11627781,Nishio Tea,,,,,,,http://www.wikidata.org/entity/Q6097,чай,
+http://www.wikidata.org/entity/Q63345031,pekoe,,,,,,,,,
+http://www.wikidata.org/entity/Q15925476,Q15925476,,,,,,,http://www.wikidata.org/entity/Q6097,чай,
+http://www.wikidata.org/entity/Q11126954,Q11126954,,,http://www.wikidata.org/entity/Q148,Китай,,,http://www.wikidata.org/entity/Q484083,зелёный чай,
+http://www.wikidata.org/entity/Q28838591,brown rice green tea,,,,,,,http://www.wikidata.org/entity/Q484083,зелёный чай,http://commons.wikimedia.org/wiki/Special:FilePath/Hyeonmi-nokcha.jpg
+http://www.wikidata.org/entity/Q10888066,Maojian tea,,,,,,,http://www.wikidata.org/entity/Q6097,чай,http://commons.wikimedia.org/wiki/Special:FilePath/Xinyang%20Maojian.jpg
+http://www.wikidata.org/entity/Q12034915,Q12034915,,,,,,,http://www.wikidata.org/entity/Q6097,чай,
+http://www.wikidata.org/entity/Q11560264,Фукамуситя,,,http://www.wikidata.org/entity/Q17,Япония,,,http://www.wikidata.org/entity/Q484083,зелёный чай,http://commons.wikimedia.org/wiki/Special:FilePath/Fukamushi%20Kakegawa%20Cha%20201812mid.jpg
+http://www.wikidata.org/entity/Q136814452,Q136814452,,,,,,,http://www.wikidata.org/entity/Q379932,фиточай,
+http://www.wikidata.org/entity/Q124606581,Chūmushi,,,http://www.wikidata.org/entity/Q17,Япония,,,http://www.wikidata.org/entity/Q484083,зелёный чай,
+http://www.wikidata.org/entity/Q11560264,Фукамуситя,,,http://www.wikidata.org/entity/Q17,Япония,,,http://www.wikidata.org/entity/Q484083,зелёный чай,http://commons.wikimedia.org/wiki/Special:FilePath/Fukamushicha.jpg
+http://www.wikidata.org/entity/Q11587820,Тэнтя,http://www.wikidata.org/entity/Q822331,Маття,http://www.wikidata.org/entity/Q17,Япония,,,http://www.wikidata.org/entity/Q484083,зелёный чай,
+http://www.wikidata.org/entity/Q109367781,corn silk tea,,,http://www.wikidata.org/entity/Q884,Республика Корея,,,,,
+http://www.wikidata.org/entity/Q21029549,Габа чай,,,,,,,http://www.wikidata.org/entity/Q6097,чай,
+http://www.wikidata.org/entity/Q684395,Краснодарский чай,,,http://www.wikidata.org/entity/Q159,Россия,,,,,
+http://www.wikidata.org/entity/Q22659278,Kangra tea,,,,,,,http://www.wikidata.org/entity/Q203415,чёрный чай,
+http://www.wikidata.org/entity/Q8427059,чай с лимоном,,,,,,,http://www.wikidata.org/entity/Q137611595,flavoured tea,http://commons.wikimedia.org/wiki/Special:FilePath/Tea%20%281%29.JPG
+http://www.wikidata.org/entity/Q97312631,Фуммацутя,,,,,,,http://www.wikidata.org/entity/Q484083,зелёный чай,
+http://www.wikidata.org/entity/Q11287400,Растворимый чай,,,,,,,http://www.wikidata.org/entity/Q6097,чай,http://commons.wikimedia.org/wiki/Special:FilePath/Funmatsucha.jpg
+http://www.wikidata.org/entity/Q203540,мате,,,http://www.wikidata.org/entity/Q155,Бразилия,,,http://www.wikidata.org/entity/Q379932,фиточай,http://commons.wikimedia.org/wiki/Special:FilePath/Erva%20mate%20chimarrao%20in%20big%20cuia.jpg
+http://www.wikidata.org/entity/Q12054238,Q12054238,,,,,,,http://www.wikidata.org/entity/Q6097,чай,
+http://www.wikidata.org/entity/Q20918537,Keisarin Morsian,,,http://www.wikidata.org/entity/Q33,Финляндия,,,http://www.wikidata.org/entity/Q203415,чёрный чай,http://commons.wikimedia.org/wiki/Special:FilePath/Keisarin%20Morsian%20-tee%20lehdet%2Bjuoma%2Bk%C3%A4ytetyt%2Bpakkaus%20-%20m.jpg
+http://www.wikidata.org/entity/Q11335081,Q11335081,,,,,,,http://www.wikidata.org/entity/Q6097,чай,
+http://www.wikidata.org/entity/Q136549327,Kashmiri kahwa,,,http://www.wikidata.org/entity/Q668,Индия,,,http://www.wikidata.org/entity/Q6097,чай,
+http://www.wikidata.org/entity/Q105616623,Цейлонский чай,,,http://www.wikidata.org/entity/Q854,Шри-Ланка,,,http://www.wikidata.org/entity/Q203415,чёрный чай,http://commons.wikimedia.org/wiki/Special:FilePath/Ceylon%20Tea%20logo.png
+http://www.wikidata.org/entity/Q18411447,Q18411447,,,,,,,http://www.wikidata.org/entity/Q940047,Каркаде,
+http://www.wikidata.org/entity/Q120786710,Amruttulya tea,,,,,,,,,http://commons.wikimedia.org/wiki/Special:FilePath/Yewale%20Amruttulya%20Indian%20Retail%20Chain%20Logo.png
+http://www.wikidata.org/entity/Q65284030,Ōmi tea,,,http://www.wikidata.org/entity/Q17,Япония,,,http://www.wikidata.org/entity/Q11509025,японский чай,http://commons.wikimedia.org/wiki/Special:FilePath/%C5%8Cmi%20Tea%20garden%2C%20Mushouno%2C%20Minakuchi%2002.jpg
+http://www.wikidata.org/entity/Q135669278,Chai ya Maziwa,,,http://www.wikidata.org/entity/Q924,Танзания,,,http://www.wikidata.org/entity/Q2647467,безалкогольный напиток,http://commons.wikimedia.org/wiki/Special:FilePath/Chai-ya-maziwa-wikimania-2025-nairobi.jpg
+http://www.wikidata.org/entity/Q112214545,Mi lan xiang,,,http://www.wikidata.org/entity/Q148,Китай,,,,,
+http://www.wikidata.org/entity/Q60609332,iced green tea,,,,,,,http://www.wikidata.org/entity/Q348958,холодный чай,http://commons.wikimedia.org/wiki/Special:FilePath/Pearl%20Petaluma%20-%20Sarah%20Stierch%20-%20Jan%202019%2002.jpg
+http://www.wikidata.org/entity/Q11126954,Q11126954,,,http://www.wikidata.org/entity/Q148,Китай,,,http://www.wikidata.org/entity/Q6097,чай,
+http://www.wikidata.org/entity/Q60609332,iced green tea,,,,,,,http://www.wikidata.org/entity/Q484083,зелёный чай,http://commons.wikimedia.org/wiki/Special:FilePath/Pearl%20Petaluma%20-%20Sarah%20Stierch%20-%20Jan%202019%2002.jpg
+http://www.wikidata.org/entity/Q63345086,chulan,,,,,,,,,
+http://www.wikidata.org/entity/Q11287400,Растворимый чай,,,,,,,http://www.wikidata.org/entity/Q100320957,instant beverage,http://commons.wikimedia.org/wiki/Special:FilePath/Funmatsucha.jpg
+http://www.wikidata.org/entity/Q108003309,Monkey Picked Oolong Tea,,,,,,,http://www.wikidata.org/entity/Q231587,Улун,
+http://www.wikidata.org/entity/Q108003309,Monkey Picked Oolong Tea,,,,,,,http://www.wikidata.org/entity/Q1328947,Те Гуаньинь,
+http://www.wikidata.org/entity/Q30043860,doncha,,,http://www.wikidata.org/entity/Q18097,Корея,,,http://www.wikidata.org/entity/Q111029394,Korean flower and leaf tea,
+http://www.wikidata.org/entity/Q12598129,Vietnamese black tea,,,,,,,http://www.wikidata.org/entity/Q203415,чёрный чай,
+http://www.wikidata.org/entity/Q10500143,Q10500143,,,,,,,http://www.wikidata.org/entity/Q6097,чай,
+http://www.wikidata.org/entity/Q11449516,Uji tea,,,,,,,http://www.wikidata.org/entity/Q484083,зелёный чай,http://commons.wikimedia.org/wiki/Special:FilePath/Tea%20Minami-yamashiro%2C%20Kyoto%2001.jpg
+http://www.wikidata.org/entity/Q7878345,Уконча,,,,,,,http://www.wikidata.org/entity/Q6097,чай,
+http://www.wikidata.org/entity/Q135669278,Chai ya Maziwa,,,http://www.wikidata.org/entity/Q924,Танзания,,,http://www.wikidata.org/entity/Q877661,Масала,http://commons.wikimedia.org/wiki/Special:FilePath/Chai-ya-maziwa-wikimania-2025-nairobi.jpg
+http://www.wikidata.org/entity/Q124606582,Asamushi,,,http://www.wikidata.org/entity/Q17,Япония,,,http://www.wikidata.org/entity/Q1334390,сентя,
+http://www.wikidata.org/entity/Q11447803,Ureshinocha,,,,,,,http://www.wikidata.org/entity/Q6097,чай,
+http://www.wikidata.org/entity/Q17059517,Yorkshire Tea,,,http://www.wikidata.org/entity/Q145,Великобритания,,,http://www.wikidata.org/entity/Q203415,чёрный чай,
+http://www.wikidata.org/entity/Q203540,мате,,,http://www.wikidata.org/entity/Q77,Уругвай,,,http://www.wikidata.org/entity/Q379932,фиточай,http://commons.wikimedia.org/wiki/Special:FilePath/Erva%20mate%20chimarrao%20in%20big%20cuia.jpg
+http://www.wikidata.org/entity/Q106333717,Meng Ding Huangya,,,,,,,http://www.wikidata.org/entity/Q824529,жёлтый чай,
+http://www.wikidata.org/entity/Q30043825,чай из сосновых иголок,,,,,,,http://www.wikidata.org/entity/Q379932,фиточай,http://commons.wikimedia.org/wiki/Special:FilePath/Sollip-cha.jpg
+http://www.wikidata.org/entity/Q22124782,furicha,,,,,,,http://www.wikidata.org/entity/Q789960,Бантя,http://commons.wikimedia.org/wiki/Special:FilePath/Bukubuku%20cha2.jpg
+http://www.wikidata.org/entity/Q122961542,usucha,,,,,,,http://www.wikidata.org/entity/Q85209885,Маття,http://commons.wikimedia.org/wiki/Special:FilePath/Matcha%20%285026245674%29.jpg
+http://www.wikidata.org/entity/Q108168889,Hechalou Tea,,,,,,,http://www.wikidata.org/entity/Q715858,Чай с шариками,
+http://www.wikidata.org/entity/Q11433557,Yamato tea,,,http://www.wikidata.org/entity/Q17,Япония,,,http://www.wikidata.org/entity/Q11509025,японский чай,http://commons.wikimedia.org/wiki/Special:FilePath/Yamazoe%20tyabatake.jpg
+http://www.wikidata.org/entity/Q25113097,Гоиситя,,,,,,,http://www.wikidata.org/entity/Q2542583,Постферментированный чай,
+http://www.wikidata.org/entity/Q2748300,Юаньян,,,,,,,http://www.wikidata.org/entity/Q1884224,чай с молоком,http://commons.wikimedia.org/wiki/Special:FilePath/Yuanyang%20%28drink%29.jpg
+http://www.wikidata.org/entity/Q7800426,Tibeti,,,http://www.wikidata.org/entity/Q148,Китай,,,http://www.wikidata.org/entity/Q2542583,Постферментированный чай,http://commons.wikimedia.org/wiki/Special:FilePath/Briques%20de%20th%C3%A9%20tib%C3%A9tain.jpg
+http://www.wikidata.org/entity/Q133253650,tea latte,,,,,,,http://www.wikidata.org/entity/Q1884224,чай с молоком,
+http://www.wikidata.org/entity/Q30924193,Q30924193,,,,,,,http://www.wikidata.org/entity/Q11509025,японский чай,
+http://www.wikidata.org/entity/Q30927481,Q30927481,,,,,,,http://www.wikidata.org/entity/Q1424874,Гёкуро,
+http://www.wikidata.org/entity/Q24872072,batabata tea,,,http://www.wikidata.org/entity/Q17,Япония,,,http://www.wikidata.org/entity/Q2542583,Постферментированный чай,
+http://www.wikidata.org/entity/Q6426017,kohki tea,,,,,,,http://www.wikidata.org/entity/Q5100949,китайский чай,
+http://www.wikidata.org/entity/Q4210698,Камаиритя,,,http://www.wikidata.org/entity/Q17,Япония,,,http://www.wikidata.org/entity/Q11509025,японский чай,http://commons.wikimedia.org/wiki/Special:FilePath/Kamairicha.jpg
+http://www.wikidata.org/entity/Q30927481,Q30927481,,,,,,,http://www.wikidata.org/entity/Q11390756,Yamecha,
+http://www.wikidata.org/entity/Q39553,sujeonggwa,,,,,,,http://www.wikidata.org/entity/Q1121224,Пунш,http://commons.wikimedia.org/wiki/Special:FilePath/Korean%20fruit%20punch-Sujeonggwa-02.jpg
+http://www.wikidata.org/entity/Q24874647,Q24874647,,,,,,,http://www.wikidata.org/entity/Q11509025,японский чай,
+http://www.wikidata.org/entity/Q116188631,E.Tea,,,,,,,http://www.wikidata.org/entity/Q715858,Чай с шариками,
+http://www.wikidata.org/entity/Q30925934,Q30925934,,,,,,,http://www.wikidata.org/entity/Q30925932,Q30925932,
+http://www.wikidata.org/entity/Q5101843,Chiran tea,,,http://www.wikidata.org/entity/Q17,Япония,,,http://www.wikidata.org/entity/Q6346675,Kagoshima green tea,http://commons.wikimedia.org/wiki/Special:FilePath/Tea%20Plantation%20in%20Chiran%2001.jpg
+http://www.wikidata.org/entity/Q24872072,batabata tea,,,http://www.wikidata.org/entity/Q17,Япония,,,http://www.wikidata.org/entity/Q22124782,furicha,
+http://www.wikidata.org/entity/Q7928654,Vietnamese lotus tea,,,,,,,http://www.wikidata.org/entity/Q50304474,lotus tea,http://commons.wikimedia.org/wiki/Special:FilePath/Vietnameselotustea.jpg
+http://www.wikidata.org/entity/Q30595699,maesil-cha,,,,,,,http://www.wikidata.org/entity/Q111029089,корейский фруктовый чай,
+http://www.wikidata.org/entity/Q3505826,сутэй цай,,,http://www.wikidata.org/entity/Q711,Монголия,,,http://www.wikidata.org/entity/Q1884224,чай с молоком,http://commons.wikimedia.org/wiki/Special:FilePath/Tsai.JPG
+http://www.wikidata.org/entity/Q60997803,Damine Tea,,,,,,,http://www.wikidata.org/entity/Q11509025,японский чай,http://commons.wikimedia.org/wiki/Special:FilePath/Shitara%20town%20Damine%20district%20landscape%20ac%20%281%29.jpg
+http://www.wikidata.org/entity/Q55729572,yam tea,,,,,,,http://www.wikidata.org/entity/Q111028903,root tea,
+http://www.wikidata.org/entity/Q16391891,Q16391891,,,,,,,http://www.wikidata.org/entity/Q1884224,чай с молоком,
+http://www.wikidata.org/entity/Q131912244,Q131912244,,,http://www.wikidata.org/entity/Q17,Япония,,,http://www.wikidata.org/entity/Q11509025,японский чай,
+http://www.wikidata.org/entity/Q131912245,Q131912245,,,http://www.wikidata.org/entity/Q17,Япония,,,http://www.wikidata.org/entity/Q11509025,японский чай,
+http://www.wikidata.org/entity/Q124434035,матча латте,,,,,,,http://www.wikidata.org/entity/Q135137251,green tea latte,
+http://www.wikidata.org/entity/Q20982513,Shahi Haleeb,,,http://www.wikidata.org/entity/Q805,Йемен,,,http://www.wikidata.org/entity/Q1884224,чай с молоком,
+http://www.wikidata.org/entity/Q2748300,Юаньян,,,,,,,http://www.wikidata.org/entity/Q37756327,кофейный напиток,http://commons.wikimedia.org/wiki/Special:FilePath/Yuanyang%20%28drink%29.jpg
+http://www.wikidata.org/entity/Q30043919,plum blossom tea,,,,,,,http://www.wikidata.org/entity/Q111029394,Korean flower and leaf tea,
+http://www.wikidata.org/entity/Q11501752,Q11501752,,,,,,,http://www.wikidata.org/entity/Q11509025,японский чай,
+http://www.wikidata.org/entity/Q135137251,green tea latte,,,,,,,http://www.wikidata.org/entity/Q133253650,tea latte,
+http://www.wikidata.org/entity/Q5296976,Doodh Pati Chai,,,,,,,http://www.wikidata.org/entity/Q1884224,чай с молоком,http://commons.wikimedia.org/wiki/Special:FilePath/Doodh%20Patti%20Chai.JPG
+http://www.wikidata.org/entity/Q11498426,Q11498426,,,,,,,http://www.wikidata.org/entity/Q30925932,Q30925932,
+http://www.wikidata.org/entity/Q41356,Hong Kong-style milk tea,,,http://www.wikidata.org/entity/Q148,Китай,,,http://www.wikidata.org/entity/Q1884224,чай с молоком,http://commons.wikimedia.org/wiki/Special:FilePath/Hong%20Kong-style%20Milk%20Tea.jpg
+http://www.wikidata.org/entity/Q6449330,arrowroot tea,,,,,,,http://www.wikidata.org/entity/Q111028903,root tea,
+http://www.wikidata.org/entity/Q22124636,bukubuku tea,,,http://www.wikidata.org/entity/Q28025,Рюкю,,,http://www.wikidata.org/entity/Q22124782,furicha,http://commons.wikimedia.org/wiki/Special:FilePath/Bukubuku%20cha3.jpg
+http://www.wikidata.org/entity/Q13636901,Huoshan Huangya tea,,,http://www.wikidata.org/entity/Q148,Китай,,,http://www.wikidata.org/entity/Q824529,жёлтый чай,http://commons.wikimedia.org/wiki/Special:FilePath/%D0%9B%D0%B8%D1%81%D1%82%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%B6%D0%B5%D0%BB%D1%82%D1%8B%D0%B9%20%D1%87%D0%B0%D0%B9%20%D0%A5%D0%BE%D1%88%D0%B0%D0%BD%D1%8C%20%D0%A5%D1%83%D0%B0%D0%BD%20%D0%AF.jpg
+http://www.wikidata.org/entity/Q13636901,Huoshan Huangya tea,,,http://www.wikidata.org/entity/Q148,Китай,,,http://www.wikidata.org/entity/Q824529,жёлтый чай,http://commons.wikimedia.org/wiki/Special:FilePath/Huoshan%20Huangya%20tea%20leaves%20close.jpg
+http://www.wikidata.org/entity/Q4631922,24 flavors,,,,,,,http://www.wikidata.org/entity/Q5100949,китайский чай,
+http://www.wikidata.org/entity/Q67933431,Truedan,,,http://www.wikidata.org/entity/Q865,Китайская Республика (Тайвань),,,http://www.wikidata.org/entity/Q715858,Чай с шариками,
+http://www.wikidata.org/entity/Q11278034,botebote tea,,,,,,,http://www.wikidata.org/entity/Q22124782,furicha,
+http://www.wikidata.org/entity/Q109325576,Kakegawa tea,,,http://www.wikidata.org/entity/Q17,Япония,,,http://www.wikidata.org/entity/Q11663583,Shizuoka tea,http://commons.wikimedia.org/wiki/Special:FilePath/Fukamushi%20Kakegawa%20Cha%20201812mid.jpg
+http://www.wikidata.org/entity/Q1195324,кукурузный чай,,,,,,,http://www.wikidata.org/entity/Q111028971,seed tea,
+http://www.wikidata.org/entity/Q11379123,Q11379123,,,,,,,http://www.wikidata.org/entity/Q11509025,японский чай,
+http://www.wikidata.org/entity/Q10636666,Q10636666,,,,,,,http://www.wikidata.org/entity/Q5100949,китайский чай,
+http://www.wikidata.org/entity/Q6449330,arrowroot tea,,,,,,,http://www.wikidata.org/entity/Q379932,фиточай,
+http://www.wikidata.org/entity/Q39553,sujeonggwa,,,,,,,http://www.wikidata.org/entity/Q111029089,корейский фруктовый чай,http://commons.wikimedia.org/wiki/Special:FilePath/Korean%20fruit%20punch-Sujeonggwa-02.jpg
+http://www.wikidata.org/entity/Q97259879,Burmese milk tea,,,http://www.wikidata.org/entity/Q836,Мьянма,,,http://www.wikidata.org/entity/Q1884224,чай с молоком,
+http://www.wikidata.org/entity/Q28687780,Q28687780,,,,,,,http://www.wikidata.org/entity/Q11627781,Nishio Tea,
+http://www.wikidata.org/entity/Q29944733,persimmon leaf tea,,,http://www.wikidata.org/entity/Q18097,Корея,,,http://www.wikidata.org/entity/Q111029394,Korean flower and leaf tea,http://commons.wikimedia.org/wiki/Special:FilePath/Gamnip-cha%202.jpg
+http://www.wikidata.org/entity/Q131300316,bubble tea brand,,,,,,,http://www.wikidata.org/entity/Q105975861,tea brand,
+http://www.wikidata.org/entity/Q131903446,Q131903446,,,http://www.wikidata.org/entity/Q17,Япония,,,http://www.wikidata.org/entity/Q11509025,японский чай,
+http://www.wikidata.org/entity/Q1070040,Цзюньшань Иньчжэнь,,,,,,,http://www.wikidata.org/entity/Q824529,жёлтый чай,http://commons.wikimedia.org/wiki/Special:FilePath/Yinzhen.jpg
+http://www.wikidata.org/entity/Q824529,жёлтый чай,,,http://www.wikidata.org/entity/Q29520,Китай,,,http://www.wikidata.org/entity/Q2542583,Постферментированный чай,http://commons.wikimedia.org/wiki/Special:FilePath/Yellow%20tea.jpg
+http://www.wikidata.org/entity/Q115604898,Q115604898,,,,,,,http://www.wikidata.org/entity/Q2542583,Постферментированный чай,http://commons.wikimedia.org/wiki/Special:FilePath/Puer%20tea%2C%20Rostov-on-Don%2C%20Russia.jpg
+http://www.wikidata.org/entity/Q30595699,maesil-cha,,,,,,,http://www.wikidata.org/entity/Q744457,фруктовый чай,
+http://www.wikidata.org/entity/Q3174775,Teh Tarik,,,http://www.wikidata.org/entity/Q833,Малайзия,,,http://www.wikidata.org/entity/Q1884224,чай с молоком,http://commons.wikimedia.org/wiki/Special:FilePath/Teh%20Tarik.jpg
+http://www.wikidata.org/entity/Q11267938,Q11267938,,,,,,,http://www.wikidata.org/entity/Q11509025,японский чай,
+http://www.wikidata.org/entity/Q1074092,коричневый рисовый чай,,,,,,,http://www.wikidata.org/entity/Q111028971,seed tea,
+http://www.wikidata.org/entity/Q715858,Чай с шариками,,,http://www.wikidata.org/entity/Q865,Китайская Республика (Тайвань),,,http://www.wikidata.org/entity/Q1884224,чай с молоком,http://commons.wikimedia.org/wiki/Special:FilePath/Bubble%20Tea.png
+http://www.wikidata.org/entity/Q11270489,buckwheat tea,,,,,,,http://www.wikidata.org/entity/Q111028971,seed tea,
+http://www.wikidata.org/entity/Q11525024,Tokyo Sayama tea,,,,,,,http://www.wikidata.org/entity/Q7429107,Sayama tea,
+http://www.wikidata.org/entity/Q17191279,Q17191279,,,,,,,http://www.wikidata.org/entity/Q11509025,японский чай,
+http://www.wikidata.org/entity/Q30043825,чай из сосновых иголок,,,,,,,http://www.wikidata.org/entity/Q111029394,Korean flower and leaf tea,http://commons.wikimedia.org/wiki/Special:FilePath/Sollip-cha.jpg
+http://www.wikidata.org/entity/Q11264327,Q11264327,,,,,,,http://www.wikidata.org/entity/Q5032638,Canned tea,
+http://www.wikidata.org/entity/Q122961540,koicha,,,,,,,http://www.wikidata.org/entity/Q85209885,Маття,http://commons.wikimedia.org/wiki/Special:FilePath/Bamboo%20chasen%20to%20whisk%20koicha%20%2815455038443%29.jpg
