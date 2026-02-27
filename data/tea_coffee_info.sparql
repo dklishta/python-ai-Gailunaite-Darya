@@ -1,0 +1,26 @@
+# Производители чая и кофе: тип продукта, страна, штаб-квартира с координатами, год основания
+# Tea and coffee producers: product type, country, HQ with coordinates, founding year
+
+SELECT ?company ?companyLabel ?productTypeLabel ?countryLabel ?hqLabel ?hqCoord ?foundingYearShort
+WHERE {
+  { ?company wdt:P1056 wd:Q8486. BIND(wd:Q8486 AS ?productType) }  # кофе
+  UNION
+  { ?company wdt:P1056 wd:Q6097. BIND(wd:Q6097 AS ?productType) }  # чай
+
+  OPTIONAL { ?company wdt:P17 ?country. }                    # Страна
+
+  OPTIONAL {
+    ?company p:P159 ?hqStmt.
+    ?hqStmt ps:P159 ?hq.                                     # Штаб-квартира → ?hqLabel
+    OPTIONAL { ?hqStmt pq:P625 ?hqCoordQualifier. }          # Координаты из квалификатора P159
+    OPTIONAL { ?hq wdt:P625 ?hqCoordDirect. }                # Координаты из объекта города
+    BIND(COALESCE(?hqCoordQualifier, ?hqCoordDirect) AS ?hqCoord)  # берём первое непустое
+  }
+
+  OPTIONAL {
+    ?company wdt:P571 ?foundingYear.
+    BIND(YEAR(?foundingYear) AS ?foundingYearShort)          # только год
+  }
+
+  SERVICE wikibase:label {bd:serviceParam wikibase:language "ru,en,mul"}
+}
