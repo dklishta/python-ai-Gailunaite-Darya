@@ -1,0 +1,50 @@
+# Производители чая и кофе: выручка, сотрудники, чистая прибыль по годам
+# Tea and coffee producers: revenue, employees, net profit by year
+
+SELECT ?company ?companyLabel ?productTypeLabel
+       ?revenue ?revenueYear ?revenueCurrencyLabel
+       ?employees ?employeesYear
+       ?netProfit ?netProfitYear ?netProfitCurrencyLabel
+WHERE {
+  { ?company wdt:P1056 wd:Q8486. BIND(wd:Q8486 AS ?productType) }  # кофе
+  UNION
+  { ?company wdt:P1056 wd:Q6097. BIND(wd:Q6097 AS ?productType) }  # чай
+
+  OPTIONAL {
+    ?company p:P2139 ?revenueStmt.
+    ?revenueStmt ps:P2139 ?revenue.
+    OPTIONAL {
+      ?revenueStmt pq:P585 ?revenueTime.
+      BIND(YEAR(?revenueTime) AS ?revenueYear)               # только год
+    }
+    OPTIONAL {
+      ?revenueStmt psv:P2139 ?revenueVal.
+      ?revenueVal wikibase:quantityUnit ?revenueCurrency.    # валюта → ?revenueCurrencyLabel
+    }
+  }
+
+  OPTIONAL {
+    ?company p:P1128 ?employeesStmt.
+    ?employeesStmt ps:P1128 ?employees.
+    OPTIONAL {
+      ?employeesStmt pq:P585 ?employeesTime.
+      BIND(YEAR(?employeesTime) AS ?employeesYear)           # только год
+    }
+  }
+
+  OPTIONAL {
+    ?company p:P2295 ?netProfitStmt.
+    ?netProfitStmt ps:P2295 ?netProfit.
+    OPTIONAL {
+      ?netProfitStmt pq:P585 ?netProfitTime.
+      BIND(YEAR(?netProfitTime) AS ?netProfitYear)           # только год
+    }
+    OPTIONAL {
+      ?netProfitStmt psv:P2295 ?netProfitVal.
+      ?netProfitVal wikibase:quantityUnit ?netProfitCurrency. # валюта → ?netProfitCurrencyLabel
+    }
+  }
+
+  SERVICE wikibase:label {bd:serviceParam wikibase:language "ru,en,mul"}
+}
+ORDER BY ?company DESC(COALESCE(?revenue, 0))                # по компании, затем по убыванию выручки
